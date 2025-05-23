@@ -67,6 +67,8 @@ TVBS 歡樂台(備份),Smart//:id=tvbshuanle_twn
 緯來育樂,Smart//:id=videolandyule
 緯來電影台,Smart//:id=videolandmovie
 緯來體育台,Smart//:id=videolandsport
+DAZN體育台1,rtmp://f13h.mine.nu/sat/tv731
+DAZN體育台2,rtmp://f13h.mine.nu/sat/tv741
 美亞電影,Smart//:id=meiyamovie_twn
 美食星球,Smart//:id=foodplanet_twn
 華視 HD,Smart//:id=ctshd_twn
@@ -116,6 +118,8 @@ Skysports News,Smart//:id=tiankongnews
 Skysports Mix,Smart//:id=tiankongmix
 CCTV-5 體育頻道,Smart//:id=cctv5
 CCTV-5+ 體育賽事 HD,Smart//:id=cctv5plus
+DAZN體育台1,rtmp://f13h.mine.nu/sat/tv731
+DAZN體育台2,rtmp://f13h.mine.nu/sat/tv741
 愛爾達體育2台,Smart//:id=eltasport2_twn
 愛爾達體育3台,Smart//:id=eltasport3_twn
 Rugby Pass TV,Smart//:id=Rugbypasstv
