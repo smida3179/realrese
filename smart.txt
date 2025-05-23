@@ -1,437 +1,225 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="DAZN体育壹" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育壹.png" group-title="台灣",DAZN体育壹
-rtmp://9hv9.mine.nu/sat/tv731
-#EXTINF:-1 tvg-name="DAZN体育贰" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育贰.png" group-title="台灣",DAZN体育贰
-rtmp://9hv9.mine.nu/sat/tv741
-#EXTINF:-1 tvg-name="AFC亞洲旅遊台" tvg-logo="https://live.fanmingming.cn/tv/AFC亞洲旅遊台.png" group-title="台灣",AFC亞洲旅遊台
-Smart//:id=asiatravel_twn
-#EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://live.fanmingming.cn/tv/AXN Taiwan.png" group-title="台灣",AXN Taiwan
-Smart//:id=axn_twn
-#EXTINF:-1 tvg-name="Arirang TV" tvg-logo="https://live.fanmingming.cn/tv/Arirang TV.png" group-title="台灣",Arirang TV
-Smart//:id=arirang_twn
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://live.fanmingming.cn/tv/CINEMAX.png" group-title="台灣",CINEMAX
-Smart//:id=cinemax_twn
-#EXTINF:-1 tvg-name="EYETV 戲劇" tvg-logo="https://live.fanmingming.cn/tv/EYETV 戲劇.png" group-title="台灣",EYETV 戲劇
-Smart//:id=eyetvxiju_twn
-#EXTINF:-1 tvg-name="EYETV 旅遊" tvg-logo="https://live.fanmingming.cn/tv/EYETV 旅遊.png" group-title="台灣",EYETV 旅遊
-Smart//:id=eyetvtravel_twn
-#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://live.fanmingming.cn/tv/HBO HD.png" group-title="台灣",HBO HD
-Smart//:id=hbohd_twn
-#EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://live.fanmingming.cn/tv/HBO HITS.png" group-title="台灣",HBO HITS
-Smart//:id=hbohit_twn
-#EXTINF:-1 tvg-name="Hollywood Movies" tvg-logo="https://live.fanmingming.cn/tv/Hollywood Movies.png" group-title="台灣",Hollywood Movies
-Smart//:id=hollywoodmovies_twn
-#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://live.fanmingming.cn/tv/MTV Live.png" group-title="台灣",MTV Live
-Smart//:id=mtvhd_twn
-#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://live.fanmingming.cn/tv/TVBS HD.png" group-title="台灣",TVBS HD
-Smart//:id=tvbs
-#EXTINF:-1 tvg-name="TVBS News 新聞台" tvg-logo="https://live.fanmingming.cn/tv/TVBS News 新聞台.png" group-title="台灣",TVBS News 新聞台
-Smart//:id=tvbs_n
-#EXTINF:-1 tvg-name="TVBS 歡樂台(備份)" tvg-logo="https://live.fanmingming.cn/tv/TVBS 歡樂台(備份).png" group-title="台灣",TVBS 歡樂台(備份)
-Smart//:id=tvbshuanle_twn
-#EXTINF:-1 tvg-name="三立台灣台" tvg-logo="https://live.fanmingming.cn/tv/三立台灣台.png" group-title="台灣",三立台灣台
-Smart//:id=sanlitaiwan
-#EXTINF:-1 tvg-name="三立戲劇台" tvg-logo="https://live.fanmingming.cn/tv/三立戲劇台.png" group-title="台灣",三立戲劇台
-Smart//:id=sanlixiju_twn
-#EXTINF:-1 tvg-name="三立綜合台" tvg-logo="https://live.fanmingming.cn/tv/三立綜合台.png" group-title="台灣",三立綜合台
-Smart//:id=sanlizhonghe
-#EXTINF:-1 tvg-name="三立都會台" tvg-logo="https://live.fanmingming.cn/tv/三立都會台.png" group-title="台灣",三立都會台
-Smart//:id=sanlidouhui
-#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://live.fanmingming.cn/tv/中天亞洲台.png" group-title="台灣",中天亞洲台
-Smart//:id=ctiasia_twn
-#EXTINF:-1 tvg-name="中天娛樂" tvg-logo="https://live.fanmingming.cn/tv/中天娛樂.png" group-title="台灣",中天娛樂
-Smart//:id=ctient
-#EXTINF:-1 tvg-name="中天新聞 HD" tvg-logo="https://live.fanmingming.cn/tv/中天新聞 HD.png" group-title="台灣",中天新聞 HD
-Smart//:id=ctinews
-#EXTINF:-1 tvg-name="中天綜合" tvg-logo="https://live.fanmingming.cn/tv/中天綜合.png" group-title="台灣",中天綜合
-Smart//:id=ctizhonghe
-#EXTINF:-1 tvg-name="中視 HD" tvg-logo="https://live.fanmingming.cn/tv/中視 HD.png" group-title="台灣",中視 HD
-Smart//:id=zhongshihd_twn
-#EXTINF:-1 tvg-name="中視新聞台" tvg-logo="https://live.fanmingming.cn/tv/中視新聞台.png" group-title="台灣",中視新聞台
-Smart//:id=zhongshinews_twn
-#EXTINF:-1 tvg-name="亞洲旅遊" tvg-logo="https://live.fanmingming.cn/tv/亞洲旅遊.png" group-title="台灣",亞洲旅遊
-Smart//:id=tlc_twn
-#EXTINF:-1 tvg-name="亞洲美食" tvg-logo="https://live.fanmingming.cn/tv/亞洲美食.png" group-title="台灣",亞洲美食
-Smart//:id=afc_twn
-#EXTINF:-1 tvg-name="八大娛樂" tvg-logo="https://live.fanmingming.cn/tv/八大娛樂.png" group-title="台灣",八大娛樂
-Smart//:id=badaentertain
-#EXTINF:-1 tvg-name="八大戲劇" tvg-logo="https://live.fanmingming.cn/tv/八大戲劇.png" group-title="台灣",八大戲劇
-Smart//:id=badadrama
-#EXTINF:-1 tvg-name="八大第一" tvg-logo="https://live.fanmingming.cn/tv/八大第一.png" group-title="台灣",八大第一
-Smart//:id=badafirst
-#EXTINF:-1 tvg-name="八大綜合" tvg-logo="https://live.fanmingming.cn/tv/八大綜合.png" group-title="台灣",八大綜合
-Smart//:id=badazhonghe
-#EXTINF:-1 tvg-name="公視" tvg-logo="https://live.fanmingming.cn/tv/公視.png" group-title="台灣",公視
-Smart//:id=ctv18_twn
-#EXTINF:-1 tvg-name="公視2" tvg-logo="https://live.fanmingming.cn/tv/公視2.png" group-title="台灣",公視2
-Smart//:id=ctv2_twn
-#EXTINF:-1 tvg-name="博斯無限" tvg-logo="https://live.fanmingming.cn/tv/博斯無限.png" group-title="台灣",博斯無限
-Smart//:id=bosiunlimited_twn
-#EXTINF:-1 tvg-name="博斯網球 HD" tvg-logo="https://live.fanmingming.cn/tv/博斯網球 HD.png" group-title="台灣",博斯網球 HD
-Smart//:id=bositennis_twn
-#EXTINF:-1 tvg-name="博斯運動I" tvg-logo="https://live.fanmingming.cn/tv/博斯運動I.png" group-title="台灣",博斯運動I
-Smart//:id=bosisport1_twn
-#EXTINF:-1 tvg-name="博斯運動II" tvg-logo="https://live.fanmingming.cn/tv/博斯運動II.png" group-title="台灣",博斯運動II
-Smart//:id=bosisport2_twn
-#EXTINF:-1 tvg-name="博斯高球II HD" tvg-logo="https://live.fanmingming.cn/tv/博斯高球II HD.png" group-title="台灣",博斯高球II HD
-Smart//:id=bosigolf2_twn
-#EXTINF:-1 tvg-name="台視 HD" tvg-logo="https://live.fanmingming.cn/tv/台視 HD.png" group-title="台灣",台視 HD
-Smart//:id=ttv_taiwan
-#EXTINF:-1 tvg-name="台視新聞台" tvg-logo="https://live.fanmingming.cn/tv/台視新聞台.png" group-title="台灣",台視新聞台
-Smart//:id=ttvnews_twn
-#EXTINF:-1 tvg-name="台視綜合台" tvg-logo="https://live.fanmingming.cn/tv/台視綜合台.png" group-title="台灣",台視綜合台
-Smart//:id=ttvzhonghe
-#EXTINF:-1 tvg-name="大愛1台" tvg-logo="https://live.fanmingming.cn/tv/大愛1台.png" group-title="台灣",大愛1台
-Smart//:id=daai_twn
-#EXTINF:-1 tvg-name="大愛2台" tvg-logo="https://live.fanmingming.cn/tv/大愛2台.png" group-title="台灣",大愛2台
-Smart//:id=daai2_twn
-#EXTINF:-1 tvg-name="好消息2" tvg-logo="https://live.fanmingming.cn/tv/好消息2.png" group-title="台灣",好消息2
-Smart//:id=good2_twn
-#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://live.fanmingming.cn/tv/寰宇新聞台.png" group-title="台灣",寰宇新聞台
-Smart//:id=huanyuxinwen_twn
-#EXTINF:-1 tvg-name="寰宇財經" tvg-logo="https://live.fanmingming.cn/tv/寰宇財經.png" group-title="台灣",寰宇財經
-Smart//:id=huanyutaiwan_twn
-#EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://live.fanmingming.cn/tv/年代新聞.png" group-title="台灣",年代新聞
-Smart//:id=niandainews_twn
-#EXTINF:-1 tvg-name="愛爾達影劇" tvg-logo="https://live.fanmingming.cn/tv/愛爾達影劇.png" group-title="台灣",愛爾達影劇
-Smart//:id=eltayingju_twn
-#EXTINF:-1 tvg-name="愛爾達影劇台" tvg-logo="https://live.fanmingming.cn/tv/愛爾達影劇台.png" group-title="台灣",愛爾達影劇台
-Smart//:id=eltayingju_twn
-#EXTINF:-1 tvg-name="愛爾達綜合台" tvg-logo="https://live.fanmingming.cn/tv/愛爾達綜合台.png" group-title="台灣",愛爾達綜合台
-Smart//:id=eltazonghe_twn
-#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://live.fanmingming.cn/tv/愛爾達體育2台.png" group-title="台灣",愛爾達體育2台
-Smart//:id=eltasport2_twn
-#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://live.fanmingming.cn/tv/愛爾達體育3台.png" group-title="台灣",愛爾達體育3台
-Smart//:id=eltasport3_twn
-#EXTINF:-1 tvg-name="星衛電影" tvg-logo="https://live.fanmingming.cn/tv/星衛電影.png" group-title="台灣",星衛電影
-Smart//:id=xingwei_movie
-#EXTINF:-1 tvg-name="東森幼幼" tvg-logo="https://live.fanmingming.cn/tv/東森幼幼.png" group-title="台灣",東森幼幼
-Smart//:id=yoyo_twn
-#EXTINF:-1 tvg-name="東森戲劇 ETTV Drama" tvg-logo="https://live.fanmingming.cn/tv/東森戲劇 ETTV Drama.png" group-title="台灣",東森戲劇 ETTV Drama
-Smart//:id=ettvdrama
-#EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://live.fanmingming.cn/tv/東森新聞.png" group-title="台灣",東森新聞
-Smart//:id=ettvnews
-#EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://live.fanmingming.cn/tv/東森洋片.png" group-title="台灣",東森洋片
-Smart//:id=ettvwestern
-#EXTINF:-1 tvg-name="東森綜合 ETTV Metro" tvg-logo="https://live.fanmingming.cn/tv/東森綜合 ETTV Metro.png" group-title="台灣",東森綜合 ETTV Metro
-Smart//:id=ettvzhonghe
-#EXTINF:-1 tvg-name="東森財經新聞" tvg-logo="https://live.fanmingming.cn/tv/東森財經新聞.png" group-title="台灣",東森財經新聞
-Smart//:id=ettvcaijing_twn
-#EXTINF:-1 tvg-name="東森超視" tvg-logo="https://live.fanmingming.cn/tv/東森超視.png" group-title="台灣",東森超視
-Smart//:id=ettvsuper
-#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://live.fanmingming.cn/tv/東森電影.png" group-title="台灣",東森電影
-Smart//:id=ettvmovie
-#EXTINF:-1 tvg-name="民視 HD" tvg-logo="https://live.fanmingming.cn/tv/民視 HD.png" group-title="台灣",民視 HD
-Smart//:id=ftvhd_taiwan
-#EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://live.fanmingming.cn/tv/民視台灣台.png" group-title="台灣",民視台灣台
-Smart//:id=ftvtaiwan_twn
-#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://live.fanmingming.cn/tv/民視新聞台.png" group-title="台灣",民視新聞台
-Smart//:id=ftvnew_taiwan
-#EXTINF:-1 tvg-name="緯來日本台" tvg-logo="https://live.fanmingming.cn/tv/緯來日本台.png" group-title="台灣",緯來日本台
-Smart//:id=videolandjapan
-#EXTINF:-1 tvg-name="緯來精彩" tvg-logo="https://live.fanmingming.cn/tv/緯來精彩.png" group-title="台灣",緯來精彩
-Smart//:id=videolandspecial_twn
-#EXTINF:-1 tvg-name="緯來綜合台" tvg-logo="https://live.fanmingming.cn/tv/緯來綜合台.png" group-title="台灣",緯來綜合台
-Smart//:id=videolandzonghe
-#EXTINF:-1 tvg-name="緯來育樂" tvg-logo="https://live.fanmingming.cn/tv/緯來育樂.png" group-title="台灣",緯來育樂
-Smart//:id=videolandyule
-#EXTINF:-1 tvg-name="緯來電影台" tvg-logo="https://live.fanmingming.cn/tv/緯來電影台.png" group-title="台灣",緯來電影台
-Smart//:id=videolandmovie
-#EXTINF:-1 tvg-name="緯來體育台" tvg-logo="https://live.fanmingming.cn/tv/緯來體育台.png" group-title="台灣",緯來體育台
-Smart//:id=videolandsport
-#EXTINF:-1 tvg-name="美亞電影" tvg-logo="https://live.fanmingming.cn/tv/美亞電影.png" group-title="台灣",美亞電影
-Smart//:id=meiyamovie_twn
-#EXTINF:-1 tvg-name="美食星球" tvg-logo="https://live.fanmingming.cn/tv/美食星球.png" group-title="台灣",美食星球
-Smart//:id=foodplanet_twn
-#EXTINF:-1 tvg-name="華視 HD" tvg-logo="https://live.fanmingming.cn/tv/華視 HD.png" group-title="台灣",華視 HD
-Smart//:id=ctshd_twn
-#EXTINF:-1 tvg-name="華藝中文台 Star Movies Chinese" tvg-logo="https://live.fanmingming.cn/tv/華藝中文台 Star Movies Chinese.png" group-title="台灣",華藝中文台 Star Movies Chinese
-Smart//:id=weishichinese_twn
-#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://live.fanmingming.cn/tv/靖天卡通台.png" group-title="台灣",靖天卡通台
-Smart//:id=jingtiancartoon_twn
-#EXTINF:-1 tvg-name="靖天國際台" tvg-logo="https://live.fanmingming.cn/tv/靖天國際台.png" group-title="台灣",靖天國際台
-Smart//:id=jingtianintl_twn
-#EXTINF:-1 tvg-name="非凡新聞台" tvg-logo="https://live.fanmingming.cn/tv/非凡新聞台.png" group-title="台灣",非凡新聞台
-Smart//:id=feifannews_twn
-#EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://live.fanmingming.cn/tv/龍華電影.png" group-title="台灣",龍華電影
-Smart//:id=weishimovie_twn
-#EXTINF:-1 tvg-name="龍華偶像" tvg-logo="https://live.fanmingming.cn/tv/龍華偶像.png" group-title="台灣",龍華偶像
-Smart//:id=lunghuaidol_twn
-#EXTINF:-1 tvg-name="龍華戲劇" tvg-logo="https://live.fanmingming.cn/tv/龍華戲劇.png" group-title="台灣",龍華戲劇
-Smart//:id=lunghuaxiju_twn
-#EXTINF:-1 tvg-name="龍華洋片" tvg-logo="https://live.fanmingming.cn/tv/龍華洋片.png" group-title="台灣",龍華洋片
-Smart//:id=lunghuawestern_twn
-#EXTINF:-1 tvg-name="龍華經典" tvg-logo="https://live.fanmingming.cn/tv/龍華經典.png" group-title="台灣",龍華經典
-Smart//:id=lunghuajingdian_twn
-#EXTINF:-1 tvg-name="龍祥時代" tvg-logo="https://live.fanmingming.cn/tv/龍祥時代.png" group-title="台灣",龍祥時代
-Smart//:id=lungxiangtime_twn
-#EXTINF:-1 tvg-name="Astro Premier League 1" tvg-logo="https://live.fanmingming.cn/tv/Astro Premier League 1.png" group-title="體育競技",Astro Premier League 1
-Smart//:id=go_assp1
-#EXTINF:-1 tvg-name="Astro EPL 1 backup" tvg-logo="https://live.fanmingming.cn/tv/Astro EPL 1 backup.png" group-title="體育競技",Astro EPL 1 backup
-Smart//:id=go_assp1x
-#EXTINF:-1 tvg-name="Astro Premier League 2" tvg-logo="https://live.fanmingming.cn/tv/Astro Premier League 2.png" group-title="體育競技",Astro Premier League 2
-Smart//:id=go_assp2
-#EXTINF:-1 tvg-name="Astro Grandstand" tvg-logo="https://live.fanmingming.cn/tv/Astro Grandstand.png" group-title="體育競技",Astro Grandstand
-Smart//:id=go_assp3
-#EXTINF:-1 tvg-name="Astro Football" tvg-logo="https://live.fanmingming.cn/tv/Astro Football.png" group-title="體育競技",Astro Football
-Smart//:id=go_assp4
-#EXTINF:-1 tvg-name="Astro Sports Plus" tvg-logo="https://live.fanmingming.cn/tv/Astro Sports Plus.png" group-title="體育競技",Astro Sports Plus
-Smart//:id=go_sportsplus
-#EXTINF:-1 tvg-name="Astro Badminton 1" tvg-logo="https://live.fanmingming.cn/tv/Astro Badminton 1.png" group-title="體育競技",Astro Badminton 1
-Smart//:id=go_badminton1
-#EXTINF:-1 tvg-name="Astro Badminton 2" tvg-logo="https://live.fanmingming.cn/tv/Astro Badminton 2.png" group-title="體育競技",Astro Badminton 2
-Smart//:id=go_badminton2
-#EXTINF:-1 tvg-name="Astro W-Sports" tvg-logo="https://live.fanmingming.cn/tv/Astro W-Sports.png" group-title="體育競技",Astro W-Sports
-Smart//:id=go_assp5
-#EXTINF:-1 tvg-name="Supersports 1" tvg-logo="https://live.fanmingming.cn/tv/Supersports 1.png" group-title="體育競技",Supersports 1
-Smart//:id=Assp1
-#EXTINF:-1 tvg-name="Supersports 2" tvg-logo="https://live.fanmingming.cn/tv/Supersports 2.png" group-title="體育競技",Supersports 2
-Smart//:id=Assp2
-#EXTINF:-1 tvg-name="Supersports 3" tvg-logo="https://live.fanmingming.cn/tv/Supersports 3.png" group-title="體育競技",Supersports 3
-Smart//:id=Assp3
-#EXTINF:-1 tvg-name="Supersports 4" tvg-logo="https://live.fanmingming.cn/tv/Supersports 4.png" group-title="體育競技",Supersports 4
-Smart//:id=Assp4
-#EXTINF:-1 tvg-name="WWE" tvg-logo="https://live.fanmingming.cn/tv/WWE.png" group-title="體育競技",WWE
-Smart//:id=Wwe
-#EXTINF:-1 tvg-name="Fight Sports" tvg-logo="https://live.fanmingming.cn/tv/Fight Sports.png" group-title="體育競技",Fight Sports
-Smart//:id=Fs
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="體育競技",NBA TV
-Smart//:id=Nba
-#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="https://live.fanmingming.cn/tv/Astro Cricket.png" group-title="體育競技",Astro Cricket
-Smart//:id=Acricket
-#EXTINF:-1 tvg-name="Astro Golf" tvg-logo="https://live.fanmingming.cn/tv/Astro Golf.png" group-title="體育競技",Astro Golf
-Smart//:id=Agolf
-#EXTINF:-1 tvg-name="Tnt Sports 1" tvg-logo="https://live.fanmingming.cn/tv/Tnt Sports 1.png" group-title="體育競技",Tnt Sports 1
-Smart//:id=6fac0aaead
-#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://live.fanmingming.cn/tv/TNT Sports 2.png" group-title="體育競技",TNT Sports 2
-Smart//:id=d9a76a79cc
-#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://live.fanmingming.cn/tv/TNT Sports 3.png" group-title="體育競技",TNT Sports 3
-Smart//:id=5fea4d73db
-#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://live.fanmingming.cn/tv/TNT Sports 4.png" group-title="體育競技",TNT Sports 4
-Smart//:id=tntsport4
-#EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://live.fanmingming.cn/tv/Sony Ten 1.png" group-title="體育競技",Sony Ten 1
-Smart//:id=ten1_raj
-#EXTINF:-1 tvg-name="Sony Ten 2" tvg-logo="https://live.fanmingming.cn/tv/Sony Ten 2.png" group-title="體育競技",Sony Ten 2
-Smart//:id=ten2_raj
-#EXTINF:-1 tvg-name="Sony Ten 3" tvg-logo="https://live.fanmingming.cn/tv/Sony Ten 3.png" group-title="體育競技",Sony Ten 3
-Smart//:id=ten3_raj
-#EXTINF:-1 tvg-name="SPOTV 1 HD" tvg-logo="https://live.fanmingming.cn/tv/SPOTV 1 HD.png" group-title="體育競技",SPOTV 1 HD
-Smart//:id=go_spotv
-#EXTINF:-1 tvg-name="SPO TV 2" tvg-logo="https://live.fanmingming.cn/tv/SPO TV 2.png" group-title="體育競技",SPO TV 2
-Smart//:id=go_spotv2
-#EXTINF:-1 tvg-name="Skysports F1" tvg-logo="https://live.fanmingming.cn/tv/Skysports F1.png" group-title="體育競技",Skysports F1
-Smart//:id=tiankongf1
-#EXTINF:-1 tvg-name="Skysports Cricket" tvg-logo="https://live.fanmingming.cn/tv/Skysports Cricket.png" group-title="體育競技",Skysports Cricket
-Smart//:id=tiankongcricket
-#EXTINF:-1 tvg-name="Skysports EPL" tvg-logo="https://live.fanmingming.cn/tv/Skysports EPL.png" group-title="體育競技",Skysports EPL
-Smart//:id=tiankongepl
-#EXTINF:-1 tvg-name="Skysports Main Event" tvg-logo="https://live.fanmingming.cn/tv/Skysports Main Event.png" group-title="體育競技",Skysports Main Event
-Smart//:id=tiankongmain
-#EXTINF:-1 tvg-name="Skysports News" tvg-logo="https://live.fanmingming.cn/tv/Skysports News.png" group-title="體育競技",Skysports News
-Smart//:id=tiankongnews
-#EXTINF:-1 tvg-name="Skysports Mix" tvg-logo="https://live.fanmingming.cn/tv/Skysports Mix.png" group-title="體育競技",Skysports Mix
-Smart//:id=tiankongmix
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="體育競技",CCTV-5 體育頻道
-Smart//:id=cctv5
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="體育競技",CCTV-5+ 體育賽事 HD
-Smart//:id=cctv5plus
-#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://live.fanmingming.cn/tv/愛爾達體育2台.png" group-title="體育競技",愛爾達體育2台
-Smart//:id=eltasport2_twn
-#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://live.fanmingming.cn/tv/愛爾達體育3台.png" group-title="體育競技",愛爾達體育3台
-Smart//:id=eltasport3_twn
-#EXTINF:-1 tvg-name="Rugby Pass TV" tvg-logo="https://live.fanmingming.cn/tv/Rugby Pass TV.png" group-title="體育競技",Rugby Pass TV
-Smart//:id=Rugbypasstv
-#EXTINF:-1 tvg-name="RTM Sports HD" tvg-logo="https://live.fanmingming.cn/tv/RTM Sports HD.png" group-title="體育競技",RTM Sports HD
-Smart//:id=Rtmsport
-#EXTINF:-1 tvg-name="Arena" tvg-logo="https://live.fanmingming.cn/tv/Arena.png" group-title="體育競技",Arena
-Smart//:id=Arena
-#EXTINF:-1 tvg-name="Arena 2" tvg-logo="https://live.fanmingming.cn/tv/Arena 2.png" group-title="體育競技",Arena 2
-Smart//:id=Arena2
-#EXTINF:-1 tvg-name="BolaArena 1" tvg-logo="https://live.fanmingming.cn/tv/BolaArena 1.png" group-title="體育競技",BolaArena 1
-Smart//:id=Bolaarena1
-#EXTINF:-1 tvg-name="BolaArena 2" tvg-logo="https://live.fanmingming.cn/tv/BolaArena 2.png" group-title="體育競技",BolaArena 2
-Smart//:id=Bolaarena2
-#EXTINF:-1 tvg-name="Astro Beinsports 1" tvg-logo="https://live.fanmingming.cn/tv/Astro Beinsports 1.png" group-title="體育競技",Astro Beinsports 1
-Smart//:id=Astrobein1
-#EXTINF:-1 tvg-name="Astro Beinsports 2" tvg-logo="https://live.fanmingming.cn/tv/Astro Beinsports 2.png" group-title="體育競技",Astro Beinsports 2
-Smart//:id=Astrobein2
-#EXTINF:-1 tvg-name="Astro Beinsports 3" tvg-logo="https://live.fanmingming.cn/tv/Astro Beinsports 3.png" group-title="體育競技",Astro Beinsports 3
-Smart//:id=Astrobein3
-#EXTINF:-1 tvg-name="HBO_HD" tvg-logo="https://live.fanmingming.cn/tv/HBO_HD.png" group-title="電影戲劇",HBO_HD
-Smart//:id=hbohd_twn
-#EXTINF:-1 tvg-name="HBO_HITS" tvg-logo="https://live.fanmingming.cn/tv/HBO_HITS.png" group-title="電影戲劇",HBO_HITS
-Smart//:id=hbohit_twn
-#EXTINF:-1 tvg-name="Hollywood Movies" tvg-logo="https://live.fanmingming.cn/tv/Hollywood Movies.png" group-title="電影戲劇",Hollywood Movies
-Smart//:id=hollywoodmovies_twn
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="電影戲劇",CCTV-6
-Smart//:id=cctv6
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://live.fanmingming.cn/tv/CINEMAX.png" group-title="電影戲劇",CINEMAX
-Smart//:id=cinemax_twn
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://live.fanmingming.cn/tv/Cinemax.png" group-title="電影戲劇",Cinemax
-Smart//:id=Cinemax
-#EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://live.fanmingming.cn/tv/AXN Taiwan.png" group-title="電影戲劇",AXN Taiwan
-Smart//:id=axn_twn
-#EXTINF:-1 tvg-name="大愛2台" tvg-logo="https://live.fanmingming.cn/tv/大愛2台.png" group-title="電影戲劇",大愛2台
-Smart//:id=daai2_twn
-#EXTINF:-1 tvg-name="東森電影 ETTV Movie" tvg-logo="https://live.fanmingming.cn/tv/東森電影 ETTV Movie.png" group-title="電影戲劇",東森電影 ETTV Movie
-Smart//:id=ettvmovie
-#EXTINF:-1 tvg-name="東森洋片 ETTV Western" tvg-logo="https://live.fanmingming.cn/tv/東森洋片 ETTV Western.png" group-title="電影戲劇",東森洋片 ETTV Western
-Smart//:id=ettvwestern
-#EXTINF:-1 tvg-name="龍華洋片 Lunghua Western" tvg-logo="https://live.fanmingming.cn/tv/龍華洋片 Lunghua Western.png" group-title="電影戲劇",龍華洋片 Lunghua Western
-Smart//:id=lunghuawestern_twn
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://live.fanmingming.cn/tv/Animax.png" group-title="電影戲劇",Animax
-Smart//:id=Animax
-#EXTINF:-1 tvg-name="龍詳時代" tvg-logo="https://live.fanmingming.cn/tv/龍詳時代.png" group-title="電影戲劇",龍詳時代
-Smart//:id=lungxiangtime_twn
-#EXTINF:-1 tvg-name="Movies Now HD" tvg-logo="https://live.fanmingming.cn/tv/Movies Now HD.png" group-title="電影戲劇",Movies Now HD
-Smart//:id=moviesnow_raj
-#EXTINF:-1 tvg-name="Star Movies HD" tvg-logo="https://live.fanmingming.cn/tv/Star Movies HD.png" group-title="電影戲劇",Star Movies HD
-Smart//:id=starmovies_raj
-#EXTINF:-1 tvg-name="衛視中文台 Star Movies Chinese" tvg-logo="https://live.fanmingming.cn/tv/衛視中文台 Star Movies Chinese.png" group-title="電影戲劇",衛視中文台 Star Movies Chinese
-Smart//:id=weishichinese_twn
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://live.fanmingming.cn/tv/HBO Family.png" group-title="電影戲劇",HBO Family
-Smart//:id=Hbofamily
-#EXTINF:-1 tvg-name="Hits" tvg-logo="https://live.fanmingming.cn/tv/Hits.png" group-title="電影戲劇",Hits
-Smart//:id=Hits
-#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://live.fanmingming.cn/tv/Warner TV.png" group-title="電影戲劇",Warner TV
-Smart//:id=WarnerTV
-#EXTINF:-1 tvg-name="衛視電影台" tvg-logo="https://live.fanmingming.cn/tv/衛視電影台.png" group-title="電影戲劇",衛視電影台
-Smart//:id=weishimovie_twn
-#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://live.fanmingming.cn/tv/HBO HD.png" group-title="電影戲劇",HBO HD
-Smart//:id=Hbo
-#EXTINF:-1 tvg-name="美亞電影" tvg-logo="https://live.fanmingming.cn/tv/美亞電影.png" group-title="電影戲劇",美亞電影
-Smart//:id=meiyamovie_twn
-#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://live.fanmingming.cn/tv/HBO Signature.png" group-title="電影戲劇",HBO Signature
-Smart//:id=Hbosignature
-#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://live.fanmingming.cn/tv/HBO Hits.png" group-title="電影戲劇",HBO Hits
-Smart//:id=Hbohitshd
-#EXTINF:-1 tvg-name="星衛電影" tvg-logo="https://live.fanmingming.cn/tv/星衛電影.png" group-title="電影戲劇",星衛電影
-Smart//:id=xingwei_movie
-#EXTINF:-1 tvg-name="SCM" tvg-logo="https://live.fanmingming.cn/tv/SCM.png" group-title="電影戲劇",SCM
-Smart//:id=Weishimovie
-#EXTINF:-1 tvg-name="Dreamworks" tvg-logo="https://live.fanmingming.cn/tv/Dreamworks.png" group-title="電影戲劇",Dreamworks
-Smart//:id=Dreamworks
-#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://live.fanmingming.cn/tv/Thrill.png" group-title="電影戲劇",Thrill
-Smart//:id=Thrill
-#EXTINF:-1 tvg-name="Hits Movie" tvg-logo="https://live.fanmingming.cn/tv/Hits Movie.png" group-title="電影戲劇",Hits Movie
-Smart//:id=Hitsmovie
-#EXTINF:-1 tvg-name="One" tvg-logo="https://live.fanmingming.cn/tv/One.png" group-title="電影戲劇",One
-Smart//:id=One
-#EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://live.fanmingming.cn/tv/tvN Movie.png" group-title="電影戲劇",tvN Movie
-Smart//:id=Tvnmovie
-#EXTINF:-1 tvg-name="Celestial Classic" tvg-logo="https://live.fanmingming.cn/tv/Celestial Classic.png" group-title="電影戲劇",Celestial Classic
-Smart//:id=Celestial2
-#EXTINF:-1 tvg-name="Celestial Movies HD" tvg-logo="https://live.fanmingming.cn/tv/Celestial Movies HD.png" group-title="電影戲劇",Celestial Movies HD
-Smart//:id=Celestialindo
-#EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://live.fanmingming.cn/tv/Axn HD.png" group-title="電影戲劇",Axn HD
-Smart//:id=Axn
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://live.fanmingming.cn/tv/Paramount Network.png" group-title="電影戲劇",Paramount Network
-Smart//:id=Paramountnetwork
-#EXTINF:-1 tvg-name="Astrol Kplus" tvg-logo="https://live.fanmingming.cn/tv/Astrol Kplus.png" group-title="電影戲劇",Astrol Kplus
-Smart//:id=Kplus
-#EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://live.fanmingming.cn/tv/Rock Actions.png" group-title="電影戲劇",Rock Actions
-Smart//:id=Rockaction
-#EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://live.fanmingming.cn/tv/Rock Entertainment.png" group-title="電影戲劇",Rock Entertainment
-Smart//:id=Rockentertain
-#EXTINF:-1 tvg-name="Natgeo_HD" tvg-logo="https://live.fanmingming.cn/tv/Natgeo_HD.png" group-title="紀實探索",Natgeo_HD
-Smart//:id=natgeohd_twn
-#EXTINF:-1 tvg-name="NatGeo_Wild HD" tvg-logo="https://live.fanmingming.cn/tv/NatGeo_Wild HD.png" group-title="紀實探索",NatGeo_Wild HD
-Smart//:id=natgeowild_twn
-#EXTINF:-1 tvg-name="Animal_Planet" tvg-logo="https://live.fanmingming.cn/tv/Animal_Planet.png" group-title="紀實探索",Animal_Planet
-Smart//:id=animalplanet_twn
-#EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://live.fanmingming.cn/tv/Discovery Asia.png" group-title="紀實探索",Discovery Asia
-Smart//:id=discoverytwn_twn
-#EXTINF:-1 tvg-name="CI" tvg-logo="https://live.fanmingming.cn/tv/CI.png" group-title="紀實探索",CI
-Smart//:id=ci_twn
-#EXTINF:-1 tvg-name="Asia Travel" tvg-logo="https://live.fanmingming.cn/tv/Asia Travel.png" group-title="紀實探索",Asia Travel
-Smart//:id=asiatravel_twn
-#EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://live.fanmingming.cn/tv/Discovery HD.png" group-title="紀實探索",Discovery HD
-Smart//:id=discoveryhd_twn
-#EXTINF:-1 tvg-name="亞洲美食" tvg-logo="https://live.fanmingming.cn/tv/亞洲美食.png" group-title="紀實探索",亞洲美食
-Smart//:id=afc_twn
-#EXTINF:-1 tvg-name="美食星球" tvg-logo="https://live.fanmingming.cn/tv/美食星球.png" group-title="紀實探索",美食星球
-Smart//:id=foodplanet_twn
-#EXTINF:-1 tvg-name="亞洲旅遊 TLC Asia" tvg-logo="https://live.fanmingming.cn/tv/亞洲旅遊 TLC Asia.png" group-title="紀實探索",亞洲旅遊 TLC Asia
-Smart//:id=tlc_twn
-#EXTINF:-1 tvg-name="NatGeo HD" tvg-logo="https://live.fanmingming.cn/tv/NatGeo HD.png" group-title="紀實探索",NatGeo HD
-Smart//:id=Natgeo
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://live.fanmingming.cn/tv/Fashion TV.png" group-title="紀實探索",Fashion TV
-Smart//:id=fashiontv_twn
-#EXTINF:-1 tvg-name="History" tvg-logo="https://live.fanmingming.cn/tv/History.png" group-title="紀實探索",History
-Smart//:id=History
-#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://live.fanmingming.cn/tv/BBC Earth HD.png" group-title="紀實探索",BBC Earth HD
-Smart//:id=bbcearth_twn
-#EXTINF:-1 tvg-name="BBC Earth Lifestyle" tvg-logo="https://live.fanmingming.cn/tv/BBC Earth Lifestyle.png" group-title="紀實探索",BBC Earth Lifestyle
-Smart//:id=bbclifestyle_twn
-#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://live.fanmingming.cn/tv/MTV Live.png" group-title="紀實探索",MTV Live
-Smart//:id=mtvhd_twn
-#EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://live.fanmingming.cn/tv/NatGeo Wild HD.png" group-title="紀實探索",NatGeo Wild HD
-Smart//:id=Natgeowild
-#EXTINF:-1 tvg-name="Animal Planet (Eng)" tvg-logo="https://live.fanmingming.cn/tv/Animal Planet (Eng).png" group-title="紀實探索",Animal Planet (Eng)
-Smart//:id=AnimalPlanet
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://live.fanmingming.cn/tv/TLC.png" group-title="紀實探索",TLC
-Smart//:id=Tlc
-#EXTINF:-1 tvg-name="Foodnetwork Hd" tvg-logo="https://live.fanmingming.cn/tv/Foodnetwork Hd.png" group-title="紀實探索",Foodnetwork Hd
-Smart//:id=Foodnetwork
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://live.fanmingming.cn/tv/HGTV.png" group-title="紀實探索",HGTV
-Smart//:id=HGTV
-#EXTINF:-1 tvg-name="AFC 亞洲旅遊台" tvg-logo="https://live.fanmingming.cn/tv/AFC 亞洲旅遊台.png" group-title="紀實探索",AFC 亞洲旅遊台
-Smart//:id=asiatravel_twn
-#EXTINF:-1 tvg-name="Skynews" tvg-logo="https://live.fanmingming.cn/tv/Skynews.png" group-title="新聞財經",Skynews
-Smart//:id=skynews_twn
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://live.fanmingming.cn/tv/ABC News.png" group-title="新聞財經",ABC News
-Smart//:id=abcnews_glo
-#EXTINF:-1 tvg-name="東森財經新聞 ETTV Business" tvg-logo="https://live.fanmingming.cn/tv/東森財經新聞 ETTV Business.png" group-title="新聞財經",東森財經新聞 ETTV Business
-Smart//:id=ettvcaijing_twn
-#EXTINF:-1 tvg-name="CBS HD" tvg-logo="https://live.fanmingming.cn/tv/CBS HD.png" group-title="新聞財經",CBS HD
-Smart//:id=cbshd_glo
-#EXTINF:-1 tvg-name="CBSN HD" tvg-logo="https://live.fanmingming.cn/tv/CBSN HD.png" group-title="新聞財經",CBSN HD
-Smart//:id=cbsn_glo
-#EXTINF:-1 tvg-name="France 24" tvg-logo="https://live.fanmingming.cn/tv/France 24.png" group-title="新聞財經",France 24
-Smart//:id=france24_twn
-#EXTINF:-1 tvg-name="DW (Deutsch)" tvg-logo="https://live.fanmingming.cn/tv/DW (Deutsch).png" group-title="新聞財經",DW (Deutsch)
-Smart//:id=dw_twn
-#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://live.fanmingming.cn/tv/NHK World.png" group-title="新聞財經",NHK World
-Smart//:id=nhkworld_japan
-#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://live.fanmingming.cn/tv/Fox News.png" group-title="新聞財經",Fox News
-Smart//:id=foxnews_twn
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="新聞財經",CGTN
-Smart//:id=CGTN
-#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://live.fanmingming.cn/tv/CNN International.png" group-title="新聞財經",CNN International
-Smart//:id=Cnn
-#EXTINF:-1 tvg-name="CNN backup" tvg-logo="https://live.fanmingming.cn/tv/CNN backup.png" group-title="新聞財經",CNN backup
-Smart//:id=cnn_twn
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://live.fanmingming.cn/tv/CNBC.png" group-title="新聞財經",CNBC
-Smart//:id=cnbc_twn
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://live.fanmingming.cn/tv/CNA.png" group-title="新聞財經",CNA
-Smart//:id=cna
-#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://live.fanmingming.cn/tv/BBC World News.png" group-title="新聞財經",BBC World News
-Smart//:id=bbcnews_twn
-#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://live.fanmingming.cn/tv/BBC World News.png" group-title="新聞財經",BBC World News
-Smart//:id=Bbcnews
-#EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://live.fanmingming.cn/tv/Bloomberg News.png" group-title="新聞財經",Bloomberg News
-Smart//:id=bloomberg_twn
-#EXTINF:-1 tvg-name="Al-Jazeera" tvg-logo="https://live.fanmingming.cn/tv/Al-Jazeera.png" group-title="新聞財經",Al-Jazeera
-Smart//:id=aljazeera_twn
-#EXTINF:-1 tvg-name="Baby TV Eng" tvg-logo="https://live.fanmingming.cn/tv/Baby TV Eng.png" group-title="兒童卡通",Baby TV Eng
-Smart//:id=Babytv
-#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://live.fanmingming.cn/tv/CBeebies.png" group-title="兒童卡通",CBeebies
-Smart//:id=Cbeebies
-#EXTINF:-1 tvg-name="Kids TV" tvg-logo="https://live.fanmingming.cn/tv/Kids TV.png" group-title="兒童卡通",Kids TV
-Smart//:id=KidsTV
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://live.fanmingming.cn/tv/Animax.png" group-title="兒童卡通",Animax
-Smart//:id=Animax
-#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://live.fanmingming.cn/tv/Baby TV.png" group-title="兒童卡通",Baby TV
-Smart//:id=babytv_twn
-#EXTINF:-1 tvg-name="MiaoMi" tvg-logo="https://live.fanmingming.cn/tv/MiaoMi.png" group-title="兒童卡通",MiaoMi
-Smart//:id=MiaoMi
-#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://live.fanmingming.cn/tv/靖天卡通台.png" group-title="兒童卡通",靖天卡通台
-Smart//:id=jingtiancartoon_twn
-#EXTINF:-1 tvg-name="東森幼幼 Yoyo TV" tvg-logo="https://live.fanmingming.cn/tv/東森幼幼 Yoyo TV.png" group-title="兒童卡通",東森幼幼 Yoyo TV
-Smart//:id=yoyo_twn
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://live.fanmingming.cn/tv/Cartoon Network.png" group-title="兒童卡通",Cartoon Network
-Smart//:id=Cn
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.cn/tv/Nickelodeon.png" group-title="兒童卡通",Nickelodeon
-Smart//:id=Nickelodeon
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://live.fanmingming.cn/tv/Nick Jr.png" group-title="兒童卡通",Nick Jr
-Smart//:id=Nickjr
+台灣1,#genre#
+DAZN体育壹,rtmp://9hv9.mine.nu/sat/tv731
+DAZN体育贰,rtmp://9hv9.mine.nu/sat/tv741
+台灣,#genre#
+AFC亞洲旅遊台,Smart//:id=asiatravel_twn
+AXN Taiwan,Smart//:id=axn_twn
+Arirang TV,Smart//:id=arirang_twn
+CINEMAX,Smart//:id=cinemax_twn
+EYETV 戲劇,Smart//:id=eyetvxiju_twn
+EYETV 旅遊,Smart//:id=eyetvtravel_twn
+HBO HD,Smart//:id=hbohd_twn
+HBO HITS,Smart//:id=hbohit_twn
+Hollywood Movies,Smart//:id=hollywoodmovies_twn
+MTV Live,Smart//:id=mtvhd_twn
+TVBS HD,Smart//:id=tvbs
+TVBS News 新聞台,Smart//:id=tvbs_n
+TVBS 歡樂台(備份),Smart//:id=tvbshuanle_twn
+三立台灣台,Smart//:id=sanlitaiwan
+三立戲劇台,Smart//:id=sanlixiju_twn
+三立綜合台,Smart//:id=sanlizhonghe
+三立都會台,Smart//:id=sanlidouhui
+中天亞洲台,Smart//:id=ctiasia_twn
+中天娛樂,Smart//:id=ctient
+中天新聞 HD,Smart//:id=ctinews
+中天綜合,Smart//:id=ctizhonghe
+中視 HD,Smart//:id=zhongshihd_twn
+中視新聞台,Smart//:id=zhongshinews_twn
+亞洲旅遊,Smart//:id=tlc_twn
+亞洲美食,Smart//:id=afc_twn
+八大娛樂,Smart//:id=badaentertain
+八大戲劇,Smart//:id=badadrama
+八大第一,Smart//:id=badafirst
+八大綜合,Smart//:id=badazhonghe
+公視,Smart//:id=ctv18_twn
+公視2,Smart//:id=ctv2_twn
+博斯無限,Smart//:id=bosiunlimited_twn
+博斯網球 HD,Smart//:id=bositennis_twn
+博斯運動I,Smart//:id=bosisport1_twn
+博斯運動II,Smart//:id=bosisport2_twn
+博斯高球II HD,Smart//:id=bosigolf2_twn
+台視 HD,Smart//:id=ttv_taiwan
+台視新聞台,Smart//:id=ttvnews_twn
+台視綜合台,Smart//:id=ttvzhonghe
+大愛1台,Smart//:id=daai_twn
+大愛2台,Smart//:id=daai2_twn
+好消息2,Smart//:id=good2_twn
+寰宇新聞台,Smart//:id=huanyuxinwen_twn
+寰宇財經,Smart//:id=huanyutaiwan_twn
+年代新聞,Smart//:id=niandainews_twn
+愛爾達影劇,Smart//:id=eltayingju_twn
+愛爾達影劇台,Smart//:id=eltayingju_twn
+愛爾達綜合台,Smart//:id=eltazonghe_twn
+愛爾達體育2台,Smart//:id=eltasport2_twn
+愛爾達體育3台,Smart//:id=eltasport3_twn
+星衛電影,Smart//:id=xingwei_movie
+東森幼幼,Smart//:id=yoyo_twn
+東森戲劇 ETTV Drama,Smart//:id=ettvdrama
+東森新聞,Smart//:id=ettvnews
+東森洋片,Smart//:id=ettvwestern
+東森綜合 ETTV Metro,Smart//:id=ettvzhonghe
+東森財經新聞,Smart//:id=ettvcaijing_twn
+東森超視,Smart//:id=ettvsuper
+東森電影,Smart//:id=ettvmovie
+民視 HD,Smart//:id=ftvhd_taiwan
+民視台灣台,Smart//:id=ftvtaiwan_twn
+民視新聞台,Smart//:id=ftvnew_taiwan
+緯來日本台,Smart//:id=videolandjapan
+緯來精彩,Smart//:id=videolandspecial_twn
+緯來綜合台,Smart//:id=videolandzonghe
+緯來育樂,Smart//:id=videolandyule
+緯來電影台,Smart//:id=videolandmovie
+緯來體育台,Smart//:id=videolandsport
+美亞電影,Smart//:id=meiyamovie_twn
+美食星球,Smart//:id=foodplanet_twn
+華視 HD,Smart//:id=ctshd_twn
+華藝中文台 Star Movies Chinese,Smart//:id=weishichinese_twn
+靖天卡通台,Smart//:id=jingtiancartoon_twn
+靖天國際台,Smart//:id=jingtianintl_twn
+非凡新聞台,Smart//:id=feifannews_twn
+龍華電影,Smart//:id=weishimovie_twn
+龍華偶像,Smart//:id=lunghuaidol_twn
+龍華戲劇,Smart//:id=lunghuaxiju_twn
+龍華洋片,Smart//:id=lunghuawestern_twn
+龍華經典,Smart//:id=lunghuajingdian_twn
+龍祥時代,Smart//:id=lungxiangtime_twn
+體育競技,#genre#
+Astro Premier League 1,Smart//:id=go_assp1
+Astro EPL 1 backup,Smart//:id=go_assp1x
+Astro Premier League 2,Smart//:id=go_assp2
+Astro Grandstand,Smart//:id=go_assp3
+Astro Football,Smart//:id=go_assp4
+Astro Sports Plus,Smart//:id=go_sportsplus
+Astro Badminton 1,Smart//:id=go_badminton1
+Astro Badminton 2,Smart//:id=go_badminton2
+Astro W-Sports,Smart//:id=go_assp5
+Supersports 1,Smart//:id=Assp1
+Supersports 2,Smart//:id=Assp2
+Supersports 3,Smart//:id=Assp3
+Supersports 4,Smart//:id=Assp4
+WWE,Smart//:id=Wwe
+Fight Sports,Smart//:id=Fs
+NBA TV,Smart//:id=Nba
+Astro Cricket,Smart//:id=Acricket
+Astro Golf,Smart//:id=Agolf
+Tnt Sports 1,Smart//:id=6fac0aaead
+TNT Sports 2,Smart//:id=d9a76a79cc
+TNT Sports 3,Smart//:id=5fea4d73db
+TNT Sports 4,Smart//:id=tntsport4
+Sony Ten 1,Smart//:id=ten1_raj
+Sony Ten 2,Smart//:id=ten2_raj
+Sony Ten 3,Smart//:id=ten3_raj
+SPOTV 1 HD,Smart//:id=go_spotv
+SPO TV 2,Smart//:id=go_spotv2
+Skysports F1,Smart//:id=tiankongf1
+Skysports Cricket,Smart//:id=tiankongcricket
+Skysports EPL,Smart//:id=tiankongepl
+Skysports Main Event,Smart//:id=tiankongmain
+Skysports News,Smart//:id=tiankongnews
+Skysports Mix,Smart//:id=tiankongmix
+CCTV-5 體育頻道,Smart//:id=cctv5
+CCTV-5+ 體育賽事 HD,Smart//:id=cctv5plus
+愛爾達體育2台,Smart//:id=eltasport2_twn
+愛爾達體育3台,Smart//:id=eltasport3_twn
+Rugby Pass TV,Smart//:id=Rugbypasstv
+RTM Sports HD,Smart//:id=Rtmsport
+Arena,Smart//:id=Arena
+Arena 2,Smart//:id=Arena2
+BolaArena 1,Smart//:id=Bolaarena1
+BolaArena 2,Smart//:id=Bolaarena2
+Astro Beinsports 1,Smart//:id=Astrobein1
+Astro Beinsports 2,Smart//:id=Astrobein2
+Astro Beinsports 3,Smart//:id=Astrobein3
+電影戲劇,#genre#
+HBO_HD,Smart//:id=hbohd_twn
+HBO_HITS,Smart//:id=hbohit_twn
+Hollywood Movies,Smart//:id=hollywoodmovies_twn
+CCTV-6,Smart//:id=cctv6
+CINEMAX,Smart//:id=cinemax_twn
+Cinemax,Smart//:id=Cinemax
+AXN Taiwan,Smart//:id=axn_twn
+大愛2台,Smart//:id=daai2_twn
+東森電影 ETTV Movie,Smart//:id=ettvmovie
+東森洋片 ETTV Western,Smart//:id=ettvwestern
+龍華洋片 Lunghua Western,Smart//:id=lunghuawestern_twn
+Animax,Smart//:id=Animax
+龍詳時代,Smart//:id=lungxiangtime_twn
+Movies Now HD,Smart//:id=moviesnow_raj
+Star Movies HD,Smart//:id=starmovies_raj
+衛視中文台 Star Movies Chinese,Smart//:id=weishichinese_twn
+HBO Family,Smart//:id=Hbofamily
+Hits,Smart//:id=Hits
+Warner TV,Smart//:id=WarnerTV
+衛視電影台,Smart//:id=weishimovie_twn
+HBO HD,Smart//:id=Hbo
+美亞電影,Smart//:id=meiyamovie_twn
+HBO Signature,Smart//:id=Hbosignature
+HBO Hits,Smart//:id=Hbohitshd
+星衛電影,Smart//:id=xingwei_movie
+SCM,Smart//:id=Weishimovie
+Dreamworks,Smart//:id=Dreamworks
+Thrill,Smart//:id=Thrill
+Hits Movie,Smart//:id=Hitsmovie
+One,Smart//:id=One
+tvN Movie,Smart//:id=Tvnmovie
+Celestial Classic,Smart//:id=Celestial2
+Celestial Movies HD,Smart//:id=Celestialindo
+Axn HD,Smart//:id=Axn
+Paramount Network,Smart//:id=Paramountnetwork
+Astrol Kplus,Smart//:id=Kplus
+Rock Actions,Smart//:id=Rockaction
+Rock Entertainment,Smart//:id=Rockentertain
+紀實探索,#genre#
+Natgeo_HD,Smart//:id=natgeohd_twn
+NatGeo_Wild HD,Smart//:id=natgeowild_twn
+Animal_Planet,Smart//:id=animalplanet_twn
+Discovery Asia,Smart//:id=discoverytwn_twn
+CI,Smart//:id=ci_twn
+Asia Travel,Smart//:id=asiatravel_twn
+Discovery HD,Smart//:id=discoveryhd_twn
+亞洲美食,Smart//:id=afc_twn
+美食星球,Smart//:id=foodplanet_twn
+亞洲旅遊 TLC Asia,Smart//:id=tlc_twn
+NatGeo HD,Smart//:id=Natgeo
+Fashion TV,Smart//:id=fashiontv_twn
+History,Smart//:id=History
+BBC Earth HD,Smart//:id=bbcearth_twn
+BBC Earth Lifestyle,Smart//:id=bbclifestyle_twn
+MTV Live,Smart//:id=mtvhd_twn
+NatGeo Wild HD,Smart//:id=Natgeowild
+Animal Planet (Eng),Smart//:id=AnimalPlanet
+TLC,Smart//:id=Tlc
+Foodnetwork Hd,Smart//:id=Foodnetwork
+HGTV,Smart//:id=HGTV
+AFC 亞洲旅遊台,Smart//:id=asiatravel_twn
+新聞財經,#genre#
+Skynews,Smart//:id=skynews_twn
+ABC News,Smart//:id=abcnews_glo
+東森財經新聞 ETTV Business,Smart//:id=ettvcaijing_twn
+CBS HD,Smart//:id=cbshd_glo
+CBSN HD,Smart//:id=cbsn_glo
+France 24,Smart//:id=france24_twn
+DW (Deutsch),Smart//:id=dw_twn
+NHK World,Smart//:id=nhkworld_japan
+Fox News,Smart//:id=foxnews_twn
+CGTN,Smart//:id=CGTN
+CNN International,Smart//:id=Cnn
+CNN backup,Smart//:id=cnn_twn
+CNBC,Smart//:id=cnbc_twn
+CNA,Smart//:id=cna
+BBC World News,Smart//:id=bbcnews_twn
+BBC World News,Smart//:id=Bbcnews
+Bloomberg News,Smart//:id=bloomberg_twn
+Al-Jazeera,Smart//:id=aljazeera_twn
+兒童卡通,#genre#
+Baby TV Eng,Smart//:id=Babytv
+CBeebies,Smart//:id=Cbeebies
+Kids TV,Smart//:id=KidsTV
+Animax,Smart//:id=Animax
+Baby TV,Smart//:id=babytv_twn
+MiaoMi,Smart//:id=MiaoMi
+靖天卡通台,Smart//:id=jingtiancartoon_twn
+東森幼幼 Yoyo TV,Smart//:id=yoyo_twn
+Cartoon Network,Smart//:id=Cn
+Nickelodeon,Smart//:id=Nickelodeon
+Nick Jr,Smart//:id=Nickjr
