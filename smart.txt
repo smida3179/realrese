@@ -1,6 +1,7 @@
-台灣,#genre#
+台灣1,#genre#
 DAZN体育壹,rtmp://9hv9.mine.nu/sat/tv731
 DAZN体育贰,rtmp://9hv9.mine.nu/sat/tv741
+台灣,#genre#
 AFC亞洲旅遊台,Smart//:id=asiatravel_twn
 AXN Taiwan,Smart//:id=axn_twn
 Arirang TV,Smart//:id=arirang_twn
