@@ -67,8 +67,8 @@ TVBS 歡樂台(備份),Smart//:id=tvbshuanle_twn
 緯來育樂,Smart//:id=videolandyule
 緯來電影台,Smart//:id=videolandmovie
 緯來體育台,Smart//:id=videolandsport
-DAZN體育台1,rtmp://f13h.mine.nu/sat/tv731
-DAZN體育台2,rtmp://f13h.mine.nu/sat/tv741
+DAZN 1 HD,http://good.ip/mqlive.m3u8?ip=122.117.6.124:1888&id=live1069
+DAZN 2 HD,http://good.ip/mqlive.m3u8?
 美亞電影,Smart//:id=meiyamovie_twn
 美食星球,Smart//:id=foodplanet_twn
 華視 HD,Smart//:id=ctshd_twn
