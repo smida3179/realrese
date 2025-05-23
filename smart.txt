@@ -1,4 +1,6 @@
 台灣,#genre#
+DAZN体育壹,rtmp://9hv9.mine.nu/sat/tv731
+DAZN体育贰,rtmp://9hv9.mine.nu/sat/tv741
 AFC亞洲旅遊台,Smart//:id=asiatravel_twn
 AXN Taiwan,Smart//:id=axn_twn
 Arirang TV,Smart//:id=arirang_twn
@@ -67,8 +69,6 @@ TVBS 歡樂台(備份),Smart//:id=tvbshuanle_twn
 緯來育樂,Smart//:id=videolandyule
 緯來電影台,Smart//:id=videolandmovie
 緯來體育台,Smart//:id=videolandsport
-DAZN 1 ,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609baf
-DAZN 2 ,https://free.weidu.filegear-sg.me/fcd9cbe3/fcd9cbe3.php?id=e4c7d7e21e609aa4
 美亞電影,Smart//:id=meiyamovie_twn
 美食星球,Smart//:id=foodplanet_twn
 華視 HD,Smart//:id=ctshd_twn
