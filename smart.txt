@@ -1,7 +1,7 @@
 影迷數位電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv011
-amc電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv017
-DAZN体育壹,rtmp://9hv9.mine.nu/sat/tv731
-DAZN体育贰,rtmp://9hv9.mine.nu/sat/tv741
+AMC電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv017
+DAZN體育台1,rtmp://9hv9.mine.nu/sat/tv731
+DAZN體育台2,rtmp://9hv9.mine.nu/sat/tv741
 AFC亞洲旅遊台,Smart//:id=asiatravel_twn
 AXN Taiwan,Smart//:id=axn_twn
 CINEMAX,Smart//:id=cinemax_twn
