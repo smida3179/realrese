@@ -50,6 +50,7 @@ TVBS 歡樂台(備份),Smart//:id=tvbshuanle_twn
 東森電影,Smart//:id=ettvmovie
 民視 HD,Smart//:id=ftvhd_taiwan
 民視台灣台,Smart//:id=ftvtaiwan_twn
+民視旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv07
 民視新聞台,Smart//:id=ftvnew_taiwan
 緯來日本台,Smart//:id=videolandjapan
 緯來精彩,Smart//:id=videolandspecial_twn
