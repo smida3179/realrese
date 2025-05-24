@@ -1,4 +1,3 @@
-台灣,#genre#
 DAZN体育壹,rtmp://9hv9.mine.nu/sat/tv731
 DAZN体育贰,rtmp://9hv9.mine.nu/sat/tv741
 AFC亞洲旅遊台,Smart//:id=asiatravel_twn
@@ -67,13 +66,9 @@ TVBS 歡樂台(備份),Smart//:id=tvbshuanle_twn
 龍華經典,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn21
 龍華洋片,Smart//:id=lunghuajingdian_twn
 龍祥時代,Smart//:id=lungxiangtime_twn
-體育競技,#genre#  
 WWE,Smart//:id=Wwe
 Fight Sports,Smart//:id=Fs
 NBA TV,Smart//:id=Nba
-愛爾達體育2台,Smart//:id=eltasport2_twn
-愛爾達體育3台,Smart//:id=eltasport3_twn
-電影戲劇,#genre#
 HBO_HD,Smart//:id=hbohd_twn
 Hollywood Movies,Smart//:id=hollywoodmovies_twn
 CINEMAX,Smart//:id=cinemax_twn
