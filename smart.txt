@@ -39,7 +39,6 @@ TVBS 歡樂台(備份),Smart//:id=tvbshuanle_twn
 愛爾達影劇台,Smart//:id=eltayingju_twn
 愛爾達體育2台,Smart//:id=eltasport2_twn
 愛爾達體育3台,Smart//:id=eltasport3_twn
-龍華電影,Smart//:id=xingwei_movie
 東森幼幼,Smart//:id=yoyo_twn
 東森戲劇 ETTV Drama,Smart//:id=ettvdrama
 東森新聞,Smart//:id=ettvnews
@@ -58,13 +57,23 @@ TVBS 歡樂台(備份),Smart//:id=tvbshuanle_twn
 緯來體育台,Smart//:id=videolandsport
 美亞電影,Smart//:id=meiyamovie_twn
 華視 HD,Smart//:id=ctshd_twn
-靖天國際台,Smart//:id=jingtianintl_twn
+靖天日本台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv047
+靖天電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv061
+靖天映畫台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv055
+靖天綜合台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv046
+靖天國際台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv063
+靖天資訊台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv065
+靖天歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv054
+靖天育樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv062
+靖洋戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv045
+靖天戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv058
 非凡新聞台,Smart//:id=feifannews_twn
-龍華電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn03
-龍華偶像,Smart//:id=lunghuaidol_twn
-龍華戲劇,Smart//:id=lunghuaxiju_twn
-龍華經典,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn21
-龍華洋片,Smart//:id=lunghuajingdian_twn
+龍華電影台,Smart//:id=xingwei_movie
+龍華洋片台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn02
+龍華戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn18
+龍華日韓台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn11
+龍華偶像台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn12
+龍華經典台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn21
 龍祥時代,Smart//:id=lungxiangtime_twn
 WWE,Smart//:id=Wwe
 Fight Sports,Smart//:id=Fs
@@ -76,12 +85,10 @@ AXN Taiwan,Smart//:id=axn_twn
 大愛2台,Smart//:id=daai2_twn
 東森電影 ETTV Movie,Smart//:id=ettvmovie
 東森洋片 ETTV Western,Smart//:id=ettvwestern
-龍華洋片 Lunghua Western,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn02
 龍詳時代,Smart//:id=lungxiangtime_twn
 Star Movies HD,Smart//:id=starmovies_raj
 華藝中文台 Star Movies Chinese,Smart//:id=weishichinese_twn
 美亞電影,Smart//:id=meiyamovie_twn
-龍華電影,Smart//:id=xingwei_movie
 Rock Actions,Smart//:id=Rockaction
 紀實探索,#genre#
 愛爾達體育4台 HD,Smart//:id=natgeowild_twn
@@ -120,6 +127,5 @@ Al-Jazeera,Smart//:id=aljazeera_twn
 兒童卡通,#genre#
 Animax,Smart//:id=Animax
 MiaoMi,Smart//:id=MiaoMi
-靖天卡通台,Smart//:id=jingtiancartoon_twn
 東森幼幼 Yoyo TV,Smart//:id=yoyo_twn
 Cartoon Network,Smart//:id=Cn
