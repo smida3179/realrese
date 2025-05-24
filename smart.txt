@@ -73,6 +73,7 @@ TVBS 歡樂台(備份),Smart//:id=tvbshuanle_twn
 靖天戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv058
 非凡新聞台,Smart//:id=feifannews_twn
 龍華電影台,Smart//:id=xingwei_movie
+龍華卡通台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn01
 龍華洋片台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn02
 龍華戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn18
 龍華日韓台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn11
