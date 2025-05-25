@@ -21,6 +21,7 @@ AMC電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&i
 直播類別2,#genre#
 DAZN體育台1,rtmp://9hv9.mine.nu/sat/tv731
 DAZN體育台2,rtmp://9hv9.mine.nu/sat/tv741
+直播類別3,#genre#
 AFC亞洲旅遊台,Smart//:id=asiatravel_twn
 AXN Taiwan,Smart//:id=axn_twn
 CINEMAX,Smart//:id=cinemax_twn
