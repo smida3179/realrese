@@ -1,0 +1,266 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="直播類別1",影迷數位電影台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv011
+#EXTINF:-1 group-title="直播類別1",AMC電影台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv017
+#EXTINF:-1 group-title="直播類別1",民視旅遊台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv07
+#EXTINF:-1 group-title="直播類別1",靖洋卡通台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv057
+#EXTINF:-1 group-title="直播類別1",靖天日本台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv047
+#EXTINF:-1 group-title="直播類別1",靖天電影台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv061
+#EXTINF:-1 group-title="直播類別1",靖天映畫台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv055
+#EXTINF:-1 group-title="直播類別1",靖天綜合台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv046
+#EXTINF:-1 group-title="直播類別1",靖天國際台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv063
+#EXTINF:-1 group-title="直播類別1",靖天資訊台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv065
+#EXTINF:-1 group-title="直播類別1",靖天歡樂台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv054
+#EXTINF:-1 group-title="直播類別1",靖天育樂台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv062
+#EXTINF:-1 group-title="直播類別1",靖洋戲劇台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv045
+#EXTINF:-1 group-title="直播類別1",龍華卡通台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn01
+#EXTINF:-1 group-title="直播類別1",龍華洋片台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn02
+#EXTINF:-1 group-title="直播類別1",龍華戲劇台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn18
+#EXTINF:-1 group-title="直播類別1",龍華日韓台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn11
+#EXTINF:-1 group-title="直播類別1",龍華偶像台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn12
+#EXTINF:-1 group-title="直播類別1",龍華經典台
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn21
+
+#EXTINF:-1 group-title="直播類別2",DAZN體育台1
+rtmp://9hv9.mine.nu/sat/tv731
+#EXTINF:-1 group-title="直播類別2",DAZN體育台2
+rtmp://9hv9.mine.nu/sat/tv741
+
+#EXTINF:-1 group-title="直播類別3",AFC亞洲旅遊台
+Smart//:id=asiatravel_twn
+#EXTINF:-1 group-title="直播類別3",AXN Taiwan
+Smart//:id=axn_twn
+#EXTINF:-1 group-title="直播類別3",CINEMAX
+Smart//:id=cinemax_twn
+#EXTINF:-1 group-title="直播類別3",EYETV 旅遊
+Smart//:id=eyetvtravel_twn
+#EXTINF:-1 group-title="直播類別3",HBO HD
+Smart//:id=hbohd_twn
+#EXTINF:-1 group-title="直播類別3",Hollywood Movies
+Smart//:id=hollywoodmovies_twn
+#EXTINF:-1 group-title="直播類別3",MTV Live
+Smart//:id=mtvhd_twn
+#EXTINF:-1 group-title="直播類別3",TVBS HD
+Smart//:id=tvbs
+#EXTINF:-1 group-title="直播類別3",TVBS News 新聞台
+Smart//:id=tvbs_n
+#EXTINF:-1 group-title="直播類別3",TVBS 歡樂台(備份)
+Smart//:id=tvbshuanle_twn
+#EXTINF:-1 group-title="直播類別3",三立台灣台
+Smart//:id=sanlitaiwan
+#EXTINF:-1 group-title="直播類別3",三立戲劇台
+Smart//:id=sanlixiju_twn
+#EXTINF:-1 group-title="直播類別3",三立綜合台
+Smart//:id=sanlizhonghe
+#EXTINF:-1 group-title="直播類別3",中天亞洲台
+Smart//:id=ctiasia_twn
+#EXTINF:-1 group-title="直播類別3",中天娛樂
+Smart//:id=ctient
+#EXTINF:-1 group-title="直播類別3",中天新聞 HD
+Smart//:id=ctinews
+#EXTINF:-1 group-title="直播類別3",中天綜合
+Smart//:id=ctizhonghe
+#EXTINF:-1 group-title="直播類別3",中視 HD
+Smart//:id=zhongshihd_twn
+#EXTINF:-1 group-title="直播類別3",中視新聞台
+Smart//:id=zhongshinews_twn
+#EXTINF:-1 group-title="直播類別3",八大戲劇
+Smart//:id=badadrama
+#EXTINF:-1 group-title="直播類別3",八大第一
+Smart//:id=badafirst
+#EXTINF:-1 group-title="直播類別3",八大綜合
+Smart//:id=badazhonghe
+#EXTINF:-1 group-title="直播類別3",博斯無限
+Smart//:id=bosiunlimited_twn
+#EXTINF:-1 group-title="直播類別3",博斯網球 HD
+Smart//:id=bositennis_twn
+#EXTINF:-1 group-title="直播類別3",博斯運動I
+Smart//:id=bosisport1_twn
+#EXTINF:-1 group-title="直播類別3",博斯運動II
+Smart//:id=bosisport2_twn
+#EXTINF:-1 group-title="直播類別3",博斯高球II HD
+Smart//:id=bosigolf2_twn
+#EXTINF:-1 group-title="直播類別3",台視 HD
+Smart//:id=ttv_taiwan
+#EXTINF:-1 group-title="直播類別3",台視新聞台
+Smart//:id=ttvnews_twn
+#EXTINF:-1 group-title="直播類別3",台視綜合台
+Smart//:id=ttvzhonghe
+#EXTINF:-1 group-title="直播類別3",大愛1台
+Smart//:id=daai_twn
+#EXTINF:-1 group-title="直播類別3",大愛2台
+Smart//:id=daai2_twn
+#EXTINF:-1 group-title="直播類別3",好消息2
+Smart//:id=good2_twn
+#EXTINF:-1 group-title="直播類別3",寰宇新聞台
+Smart//:id=huanyuxinwen_twn
+#EXTINF:-1 group-title="直播類別3",信吉電視台
+Smart//:id=huanyutaiwan_twn
+#EXTINF:-1 group-title="直播類別3",年代新聞
+Smart//:id=niandainews_twn
+#EXTINF:-1 group-title="直播類別3",愛爾達影劇台
+Smart//:id=eltayingju_twn
+#EXTINF:-1 group-title="直播類別3",愛爾達體育2台
+Smart//:id=eltasport2_twn
+#EXTINF:-1 group-title="直播類別3",愛爾達體育3台
+Smart//:id=eltasport3_twn
+#EXTINF:-1 group-title="直播類別3",東森幼幼
+Smart//:id=yoyo_twn
+#EXTINF:-1 group-title="直播類別3",東森戲劇 ETTV Drama
+Smart//:id=ettvdrama
+#EXTINF:-1 group-title="直播類別3",東森新聞
+Smart//:id=ettvnews
+#EXTINF:-1 group-title="直播類別3",東森洋片
+Smart//:id=ettvwestern
+#EXTINF:-1 group-title="直播類別3",東森綜合 ETTV Metro
+Smart//:id=ettvzhonghe
+#EXTINF:-1 group-title="直播類別3",東森財經新聞
+Smart//:id=ettvcaijing_twn
+#EXTINF:-1 group-title="直播類別3",東森電影
+Smart//:id=ettvmovie
+#EXTINF:-1 group-title="直播類別3",民視 HD
+Smart//:id=ftvhd_taiwan
+#EXTINF:-1 group-title="直播類別3",民視台灣台
+Smart//:id=ftvtaiwan_twn
+#EXTINF:-1 group-title="直播類別3",民視新聞台
+Smart//:id=ftvnew_taiwan
+#EXTINF:-1 group-title="直播類別3",緯來日本台
+Smart//:id=videolandjapan
+#EXTINF:-1 group-title="直播類別3",緯來精彩
+Smart//:id=videolandspecial_twn
+#EXTINF:-1 group-title="直播類別3",緯來綜合台
+Smart//:id=videolandzonghe
+#EXTINF:-1 group-title="直播類別3",緯來育樂
+Smart//:id=videolandyule
+#EXTINF:-1 group-title="直播類別3",緯來電影台
+Smart//:id=videolandmovie
+#EXTINF:-1 group-title="直播類別3",緯來體育台
+Smart//:id=videolandsport
+#EXTINF:-1 group-title="直播類別3",美亞電影
+Smart//:id=meiyamovie_twn
+#EXTINF:-1 group-title="直播類別3",華視 HD
+Smart//:id=ctshd_twn
+#EXTINF:-1 group-title="直播類別3",非凡新聞台
+Smart//:id=feifannews_twn
+#EXTINF:-1 group-title="直播類別3",龍華電影台
+Smart//:id=xingwei_movie
+#EXTINF:-1 group-title="直播類別3",龍祥時代
+Smart//:id=lungxiangtime_twn
+#EXTINF:-1 group-title="直播類別3",WWE
+Smart//:id=Wwe
+#EXTINF:-1 group-title="直播類別3",Fight Sports
+Smart//:id=Fs
+#EXTINF:-1 group-title="直播類別3",NBA TV
+Smart//:id=Nba
+#EXTINF:-1 group-title="直播類別3",HBO_HD
+Smart//:id=hbohd_twn
+#EXTINF:-1 group-title="直播類別3",Hollywood Movies
+Smart//:id=hollywoodmovies_twn
+#EXTINF:-1 group-title="直播類別3",CINEMAX
+Smart//:id=cinemax_twn
+#EXTINF:-1 group-title="直播類別3",AXN Taiwan
+Smart//:id=axn_twn
+#EXTINF:-1 group-title="直播類別3",大愛2台
+Smart//:id=daai2_twn
+#EXTINF:-1 group-title="直播類別3",東森電影 ETTV Movie
+Smart//:id=ettvmovie
+#EXTINF:-1 group-title="直播類別3",東森洋片 ETTV Western
+Smart//:id=ettvwestern
+#EXTINF:-1 group-title="直播類別3",Star Movies HD
+Smart//:id=starmovies_raj
+#EXTINF:-1 group-title="直播類別3",華藝中文台 Star Movies Chinese
+Smart//:id=weishichinese_twn
+#EXTINF:-1 group-title="直播類別3",美亞電影
+Smart//:id=meiyamovie_twn
+#EXTINF:-1 group-title="直播類別3",Rock Actions
+Smart//:id=Rockaction
+#EXTINF:-1 group-title="直播類別3",愛爾達體育4台 HD
+Smart//:id=natgeowild_twn
+#EXTINF:-1 group-title="直播類別3",動物星球頻道
+Smart//:id=animalplanet_twn
+#EXTINF:-1 group-title="直播類別3",Discovery Asia
+Smart//:id=discoverytwn_twn
+#EXTINF:-1 group-title="直播類別3",CI
+Smart//:id=ci_twn
+#EXTINF:-1 group-title="直播類別3",Discovery HD
+//Smart//:id=discoveryhd_twn
+#EXTINF:-1 group-title="直播類別3",亞洲美食
+Smart//:id=afc_twn
+#EXTINF:-1 group-title="直播類別3",美食星球
+Smart//:id=foodplanet_twn
+#EXTINF:-1 group-title="直播類別3",NatGeo HD
+Smart//:id=Natgeo
+#EXTINF:-1 group-title="直播類別3",Fashion TV
+Smart//:id=fashiontv_twn
+#EXTINF:-1 group-title="直播類別3",History
+Smart//:id=History
+#EXTINF:-1 group-title="直播類別3",BBC Earth HD
+Smart//:id=bbcearth_twn
+#EXTINF:-1 group-title="直播類別3",BBC Earth Lifestyle
+Smart//:id=bbclifestyle_twn
+#EXTINF:-1 group-title="直播類別3",MTV Live
+Smart//:id=mtvhd_twn
+#EXTINF:-1 group-title="直播類別3",NatGeo Wild HD
+Smart//:id=Natgeowild
+#EXTINF:-1 group-title="直播類別3",Animal Planet (Eng)
+Smart//:id=AnimalPlanet
+#EXTINF:-1 group-title="直播類別3",TLC
+Smart//:id=Tlc
+#EXTINF:-1 group-title="直播類別3",Foodnetwork Hd
+Smart//:id=Foodnetwork
+#EXTINF:-1 group-title="直播類別3",HGTV
+Smart//:id=HGTV
+#EXTINF:-1 group-title="直播類別3",AFC 亞洲旅遊台
+Smart//:id=asiatravel_twn
+#EXTINF:-1 group-title="直播類別3",Skynews
+Smart//:id=skynews_twn
+#EXTINF:-1 group-title="直播類別3",ABC News
+Smart//:id=abcnews_glo
+#EXTINF:-1 group-title="直播類別3",東森財經新聞 ETTV Business
+Smart//:id=ettvcaijing_twn
+#EXTINF:-1 group-title="直播類別3",CBS HD
+Smart//:id=cbshd_glo
+#EXTINF:-1 group-title="直播類別3",CBSN HD
+Smart//:id=cbsn_glo
+#EXTINF:-1 group-title="直播類別3",France 24
+Smart//:id=france24_twn
+#EXTINF:-1 group-title="直播類別3",DW (Deutsch)
+Smart//:id=dw_twn
+#EXTINF:-1 group-title="直播類別3",CNN International
+Smart//:id=Cnn
+#EXTINF:-1 group-title="直播類別3",CNBC
+Smart//:id=cnbc_twn
+#EXTINF:-1 group-title="直播類別3",CNA
+Smart//:id=cna
+#EXTINF:-1 group-title="直播類別3",BBC World News
+Smart//:id=bbcnews_twn
+#EXTINF:-1 group-title="直播類別3",BBC World News
+Smart//:id=Bbcnews
+#EXTINF:-1 group-title="直播類別3",Al-Jazeera
+Smart//:id=aljazeera_twn
+#EXTINF:-1 group-title="直播類別3",Animax
+Smart//:id=Animax
+#EXTINF:-1 group-title="直播類別3",MiaoMi
+Smart//:id=MiaoMi
+#EXTINF:-1 group-title="直播類別3",東森幼幼 Yoyo TV
+Smart//:id=yoyo_twn
+#EXTINF:-1 group-title="直播類別3",Cartoon Network
+Smart//:id=Cn
