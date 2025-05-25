@@ -1,4 +1,4 @@
-#genre# 直播類別1
+直播類別1,#genre#
 影迷數位電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv011
 AMC電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv017
 民視旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv07
@@ -18,7 +18,7 @@ AMC電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&i
 龍華日韓台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn11
 龍華偶像台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn12
 龍華經典台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn21
-#genre# 直播類別2
+直播類別2,#genre#
 DAZN體育台1,rtmp://9hv9.mine.nu/sat/tv731
 DAZN體育台2,rtmp://9hv9.mine.nu/sat/tv741
 AFC亞洲旅遊台,Smart//:id=asiatravel_twn
