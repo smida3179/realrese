@@ -89,7 +89,6 @@ AXN Taiwan,Smart//:id=axn_twn
 大愛2台,Smart//:id=daai2_twn
 東森電影 ETTV Movie,Smart//:id=ettvmovie
 東森洋片 ETTV Western,Smart//:id=ettvwestern
-龍詳時代,Smart//:id=lungxiangtime_twn
 Star Movies HD,Smart//:id=starmovies_raj
 華藝中文台 Star Movies Chinese,Smart//:id=weishichinese_twn
 美亞電影,Smart//:id=meiyamovie_twn
