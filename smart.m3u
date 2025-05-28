@@ -657,3 +657,5 @@ http://4gtv.livednow.dpdns.org/litv-longturn12/index.m3u8
 http://4gtv.livednow.dpdns.org/litv-longturn18/index.m3u8
 #EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="電影戲劇",龍華經典
 http://4gtv.livednow.dpdns.org/litv-longturn21/index.m3u8
+#EXTINF:-1 group-title="電影戲劇",CatchPlay電影台
+CatchPlay电影台,http://150.138.77.132:10037/150.php?id=CatchPlay电影台
