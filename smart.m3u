@@ -116,6 +116,10 @@ http://mudokato66.putapapaya66.uk/stv-nosession.php?id=videolandyule
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=ctshd_twn
 #EXTINF:-1 group-title="綜合娛樂",信吉電視台
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=huanyutaiwan_twn
+#EXTINF:-1 group-title="體育",DAZN體育台1
+rtmp://9hv9.mine.nu/sat/tv731
+#EXTINF:-1 group-title="體育",DAZN體育台2
+rtmp://9hv9.mine.nu/sat/tv741
 #EXTINF:-1 group-title="體育",愛爾達體育2台
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=eltasport2_twn
 #EXTINF:-1 group-title="體育",愛爾達體育3台
@@ -134,11 +138,6 @@ http://mudokato66.putapapaya66.uk/stv-nosession.php?id=bosisport1_twn
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=bosisport2_twn
 #EXTINF:-1 group-title="體育",博斯高球II HD
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=bosigolf2_twn
-#EXTINF:-1 group-title="體育",WWE
-http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Wwe
-#EXTINF:-1 group-title="體育",Fight Sports
-http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Fs
-#EXTINF:-1 group-title="體育",NBA TV
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Nba
 #EXTINF:-1 group-title="紀實知識",動物星球頻道
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=animalplanet_twn
@@ -322,15 +321,15 @@ http://4gtv.livednow.dpdns.org/4gtv-4gtv059/index.m3u8
 http://4gtv.livednow.dpdns.org/4gtv-live048/index.m3u8
 #EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_INULTRA_mobile.png" group-title="旅遊生活",INULTRA
 http://4gtv.livednow.dpdns.org/4gtv-live096/index.m3u8
-#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="體育競技",TRACE Sport Stars
+#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="體育",TRACE Sport Stars
 http://4gtv.livednow.dpdns.org/4gtv-4gtv077/index.m3u8
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="體育競技",智林體育
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="體育",智林體育
 http://4gtv.livednow.dpdns.org/4gtv-4gtv101/index.m3u8
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="體育競技",時尚運動X
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="體育",時尚運動X
 http://4gtv.livednow.dpdns.org/4gtv-4gtv014/index.m3u8
-#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="體育競技",車迷 TV
+#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="體育",車迷 TV
 http://4gtv.livednow.dpdns.org/4gtv-live201/index.m3u8
-#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="Ginx TV 電競頻道" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="體育競技", GINX Esports TV
+#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="Ginx TV 電競頻道" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="體育", GINX Esports TV
 http://4gtv.livednow.dpdns.org/4gtv-4gtv053/index.m3u8
 #EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PetClubTV.png" group-title="旅遊生活",Pet Club TV
 http://4gtv.livednow.dpdns.org/4gtv-live110/index.m3u8
