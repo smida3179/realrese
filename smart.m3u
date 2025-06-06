@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="CatchPlay電影" tvg-id="369260" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711225534366231_52.png" group-title="電影戲劇",[BD]CatchPlay
+https://stream1.freetv.fun/8f327452249915f954f3550e35e9939c7f884f7ac968ad73b966c37d690fd026.ctv
 #EXTINF:-1 group-title="電影戲劇",CINEMAX
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=cinemax_twn
 #EXTINF:-1 group-title="電影戲劇",HBO HD
