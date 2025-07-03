@@ -88,8 +88,10 @@ http://mudokato66.putapapaya66.uk/stv-nosession.php?id=ctshd_twn
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=huanyutaiwan_twn
 #EXTINF:-1 group-title="體育運動",DAZN體育運動台1
 rtmp://f13h.mine.nu/sat/tv731
+http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 #EXTINF:-1 group-title="體育運動",DAZN體育運動台2
 rtmp://f13h.mine.nu/sat/tv741
+http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 group-title="體育運動",愛爾達體育運動2台
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=eltasport2_twn
 #EXTINF:-1 group-title="體育運動",愛爾達體育運動3台
