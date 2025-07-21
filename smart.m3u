@@ -2,6 +2,7 @@
 
 #EXTINF:-1 group-title="電影戲劇",CINEMAX
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=cinemax_twn
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1030&ip=http://220.134.196.147:1888&playing=http://61.219.99.20:8081/hls/71/813/ch42.m3u8&port=8535&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 #EXTINF:-1 group-title="電影戲劇",CatchPlay HD
 http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1207&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/CatchPlay.live.ts&port=8555&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1207&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/CatchPlay.live.ts&port=8555&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
@@ -9,9 +10,13 @@ http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1207&ip=https://59.
 http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1192&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/HBOHD.live.ts?cv=libx264&port=8540&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1192&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/HBOHD.live.ts?cv=libx264&port=8540&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 #EXTINF:-1 group-title="電影戲劇",Hollywood Movies
-http://mudokato66.putapapaya66.uk/stv-nosession.php?id=hollywoodmovies_twn
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1039&ip=https://60.248.127.232:4433&playing=http://192.168.0.176/4.ts&port=8817&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1025&ip=http://220.134.196.147:1888&playing=http://61.219.99.20:8081/hls/74/816/ch55.m3u8&port=8543&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1039&ip=https://59.125.210.231:4433&playing=http://192.168.0.176/4.ts&port=8817&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 #EXTINF:-1 group-title="電影戲劇",AXN Taiwan
-http://mudokato66.putapapaya66.uk/stv-nosession.php?id=axn_twn
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1064&ip=https://60.248.127.232:4433&playing=http://192.168.0.151/8.ts&port=8842&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1054&ip=http://220.134.196.147:1888&playing=http://61.219.99.20:8081/hls/71/813/ch43.m3u8&port=8526&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1064&ip=https://59.125.210.231:4433&playing=http://192.168.0.151/8.ts&port=8842&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 #EXTINF:-1 group-title="電影戲劇",三立戲劇台
 http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1179&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/sanlixiju.live.ts&port=8527&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1179&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/sanlixiju.live.ts&port=8527&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
@@ -20,11 +25,17 @@ http://mudokato66.putapapaya66.uk/stv-nosession.php?id=badadrama
 #EXTINF:-1 group-title="電影戲劇",愛爾達影劇台
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=eltayingju_twn
 #EXTINF:-1 group-title="電影戲劇",東森戲劇 ETTV Drama
-http://mudokato66.putapapaya66.uk/stv-nosession.php?id=ettvdrama
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1176&ip=https://60.248.127.232:4433&playing=http://192.168.0.125/8.ts&port=8524&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1042&ip=http://220.134.196.147:1888&playing=http://61.219.99.20:8081/hls/64/806/ch13.m3u8&port=8536&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1176&ip=https://59.125.210.231:4433&playing=http://192.168.0.125/8.ts&port=8524&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 #EXTINF:-1 group-title="電影戲劇",東森洋片
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=ettvwestern
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1191&ip=https://60.248.127.232:4433&playing=http://192.168.0.166/0.ts&port=8539&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1191&ip=https://59.125.210.231:4433&playing=http://192.168.0.166/0.ts&port=8539&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 #EXTINF:-1 group-title="電影戲劇",東森電影
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=ettvmovie
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1188&ip=https://60.248.127.232:4433&playing=http://192.168.0.125/12.ts&port=8536&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1188&ip=https://59.125.210.231:4433&playing=http://192.168.0.125/12.ts&port=8536&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 #EXTINF:-1 group-title="電影戲劇",緯來電影台
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=videolandmovie
 http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1183&ip=http://220.134.196.147:1888&playing=http://61.219.99.20:8081/hls/69/811/ch35.m3u8&port=8574&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
