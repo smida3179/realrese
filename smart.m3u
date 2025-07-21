@@ -27,6 +27,9 @@ http://mudokato66.putapapaya66.uk/stv-nosession.php?id=ettvwestern
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=ettvmovie
 #EXTINF:-1 group-title="電影戲劇",緯來電影台
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=videolandmovie
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1183&ip=http://220.134.196.147:1888&playing=http://61.219.99.20:8081/hls/69/811/ch35.m3u8&port=8574&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1020&ip=https://59.125.210.231:4433&playing=http://192.168.0.172:9915/1a10b2d4ddef5a5d7e43421bb576186f.ts&port=8819&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1031&ip=https://60.248.127.232:4433&playing=http://192.168.0.163:9915/09f59fcec8315cbb60a3a1eae756378d.ts&port=8810&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 #EXTINF:-1 group-title="電影戲劇",美亞電影台
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=meiyamovie_twn
 #EXTINF:-1 group-title="電影戲劇",龍祥時代
