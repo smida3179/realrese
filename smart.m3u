@@ -94,6 +94,9 @@ http://mudokato66.putapapaya66.uk/stv-nosession.php?id=ttv_taiwan
 #EXTINF:-1 group-title="綜合娛樂",台視綜合台
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=ttvzhonghe
 #EXTINF:-1 group-title="綜合娛樂",東森綜合 ETTV Metro
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1171&ip=https://60.248.127.232:4433&playing=http://192.168.0.125/4.ts&port=8519&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1041&ip=http://220.134.196.147:1888&playing=http://61.219.99.20:8081/hls/63/805/ch12.m3u8&port=9553&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1171&ip=https://59.125.210.231:4433&playing=http://192.168.0.125/4.ts&port=8519&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=ettvzhonghe
 #EXTINF:-1 group-title="綜合娛樂",民視 HD
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=ftvhd_taiwan
