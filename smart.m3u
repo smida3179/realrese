@@ -72,6 +72,8 @@ http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1668&ip=http://220.
 #EXTINF:-1 group-title="綜合娛樂",TVBS 歡樂台
 http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1018&ip=http://220.134.196.147:1888&playing=http://61.219.99.20:8081/hls/65/807/ch17.m3u8&port=8522&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 #EXTINF:-1 group-title="綜合娛樂",三立台灣台
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1021&ip=http://220.134.196.147:1888&playing=http://61.219.99.20:8081/hls/65/807/ch20.m3u8&port=8513&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1021&ip=http://211.23.114.106:1888&playing=http://61.219.99.20:8081/hls/65/807/ch20.m3u8&port=9378&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1168&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/SET29.live.ts&port=8516&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1168&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/SET29.live.ts&port=8516&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 #EXTINF:-1 group-title="綜合娛樂",三立都會台
