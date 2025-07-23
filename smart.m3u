@@ -77,6 +77,7 @@ http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1021&ip=http://211.
 http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1168&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/SET29.live.ts&port=8516&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1168&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/SET29.live.ts&port=8516&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 #EXTINF:-1 group-title="綜合娛樂",三立都會台
+http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1020&ip=http://211.23.114.106:1888&playing=http://61.219.99.20:8081/hls/65/807/ch19.m3u8&port=8538&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1169&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/SET30.live.ts&port=8517&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 http://mqitv.putapapaya66.uk/mqitv/proxy.php?do=mqitv&id=live1169&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/SET30.live.ts&port=8517&type=m3u8&play_token=BDJrl4qnj8771xsKpMdIu4MQXDGK7scH
 #EXTINF:-1 tvg-id="三立綜合台HD" tvg-name="三立綜合台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="綜合娛樂",三立綜合合
