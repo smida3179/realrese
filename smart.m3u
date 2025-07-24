@@ -1,32 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NHK世界HD" tvg-name="NHK世界HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHK世界HD.png" group-title="211",NHK世界HD
-http://172.24.32.11:8285/proxy?do=mqitv&id=live1027&ip=http://211.23.114.106:1888&playing=http://61.219.99.20:8081/hls/62/804/ch06.m3u8&port=9351&type=m3u8
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/鏡電視新聞台.png" group-title="211",鏡電視新聞台
-http://172.24.32.11:8285/proxy?do=mqitv&id=live1031&ip=http://211.23.114.106:1888&playing=http://61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8&port=8545&type=m3u8
-#EXTINF:-1 tvg-id="好萊塢電影HD" tvg-name="好萊塢電影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好萊塢電影HD.png" group-title="211",好萊塢電影HD
-http://172.24.32.11:8285/proxy?do=mqitv&id=live1025&ip=http://211.23.114.106:1888&playing=http://61.219.99.20:8081/hls/74/816/ch55.m3u8&port=9353&type=m3u8
-#EXTINF:-1 tvg-id="緯來電影HD" tvg-name="緯來電影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/緯來電影HD.png" group-title="211",緯來電影HD
-http://172.24.32.11:8285/proxy?do=mqitv&id=live1183&ip=http://211.23.114.106:1888&playing=http://61.219.99.20:8081/hls/69/811/ch35.m3u8&port=9354&type=m3u8
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龍華電影台.png" group-title="211",龍華電影台
-http://172.24.32.11:8285/proxy?do=mqitv&id=live1677&ip=http://211.23.114.106:1888&playing=http://61.219.99.20:8068/hls/10/80/cstv10.m3u8&port=8509&type=m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO.png" group-title="211",HBO
-http://172.24.32.11:8285/proxy?do=mqitv&id=live1029&ip=http://211.23.114.106:1888&playing=http://61.219.99.20:8081/hls/71/813/ch41.m3u8&port=9356&type=m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="211",AXN
-http://172.24.32.11:8285/proxy?do=mqitv&id=live1054&ip=http://211.23.114.106:1888&playing=http://61.219.99.20:8081/hls/71/813/ch43.m3u8&port=9357&type=m3u8
-#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="CINEMAX HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CINEMAX HD.png" group-title="211",CINEMAX HD
-http://172.24.32.11:8285/proxy?do=mqitv&id=live1030&ip=http://211.23.114.106:1888&playing=http://61.219.99.20:8081/hls/71/813/ch42.m3u8&port=9358&type=m3u8
-#EXTINF:-1 tvg-id="AMC 電影台" tvg-name="AMC 電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AMC 電影台.png" group-title="211",AMC 電影台
-http://172.24.32.11:8285/proxy?do=mqitv&id=live1032&ip=http://211.23.114.106:1888&playing=http://61.219.99.20:8092/upload/115/AMC_TS-1111_1.m3u8&port=9359&type=m3u8
-#EXTINF:-1 tvg-id="寵物頻道" tvg-name="寵物頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/寵物頻道.png" group-title="211",寵物頻道
-http://172.24.32.11:8285/proxy?do=mqitv&id=live1040&ip=http://211.23.114.106:1888&playing=http://59.120.8.187:8078/hls/40/80/pettv.m3u8&port=9360&type=m3u8
-#EXTINF:-1 tvg-id="緯來育樂HD" tvg-name="緯來育樂HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/緯來育樂HD.png" group-title="211",緯來育樂HD
 
-
-
-
-
-EXTINF:-1 group-title="電影戲劇",CINEMAX
+#EXTINF:-1 group-title="電影戲劇",CINEMAX
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=cinemax_twn
 http://107.167.178.41:62364/proxy?do=mqitv&id=live1030&ip=http://211.23.114.106:1888&playing=http://61.219.99.20:8081/hls/71/813/ch42.m3u8&port=9358&type=m3u8&play_token=HtVK-YpDuOOVagvEMNTvZzII98HqEY8D
 http://107.167.178.41:62364/proxy?do=mqitv&id=live1030&ip=http://220.134.196.147:1888&playing=http://61.219.99.20:8081/hls/71/813/ch42.m3u8&port=8535&type=m3u8&play_token=HtVK-YpDuOOVagvEMNTvZzII98HqEY8D
