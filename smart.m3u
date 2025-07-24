@@ -1,15 +1,14 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="HBO家庭HD" tvg-name="HBO家庭HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO家庭HD.png" group-title="59大酒店",HBO家庭HD
-http://107.167.178.41:62364/proxy?do=mqitv&id=live1193&ip=https://59.125.210.231:4433&playing=http://192.168.0.112/12.ts&port=8541&type=m3u8&play_token=HtVK-YpDuOOVagvEMNTvZzII98HqEY8D
-#EXTINF:-1 tvg-id="HBO強檔HD" tvg-name="HBO強檔HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO強檔HD.png" group-title="59大酒店",HBO強檔HD
-http://107.167.178.41:62364/proxy?do=mqitv&id=live1194&ip=https://59.125.210.231:4433&playing=http://192.168.0.112/4.ts&port=8542&type=m3u8&play_token=HtVK-YpDuOOVagvEMNTvZzII98HqEY8D
-#EXTINF:-1 tvg-id="HBO原創HD" tvg-name="HBO原創HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO原創HD.png" group-title="59大酒店",HBO原創HD
-http://107.167.178.41:62364/proxy?do=mqitv&id=live1195&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/HBOSignatureHD.live.ts&port=8543&type=m3u8&play_token=HtVK-YpDuOOVagvEMNTvZzII98HqEY8D
+#EXTINF:-1 tvg-id="HBO家庭HD" tvg-name="HBO家庭HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO家庭HD.png" group-title="60大酒店",HBO家庭HD
+http://107.167.178.41:62364/proxy?do=mqitv&id=live1193&ip=https://60.248.127.232:4433&playing=http://192.168.0.112/12.ts&port=8541&type=m3u8&play_token=HtVK-YpDuOOVagvEMNTvZzII98HqEY8D
+#EXTINF:-1 tvg-id="HBO強檔HD" tvg-name="HBO強檔HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO強檔HD.png" group-title="60大酒店",HBO強檔HD
+http://107.167.178.41:62364/proxy?do=mqitv&id=live1194&ip=https://60.248.127.232:4433&playing=http://192.168.0.112/4.ts&port=8542&type=m3u8&play_token=HtVK-YpDuOOVagvEMNTvZzII98HqEY8D
+#EXTINF:-1 tvg-id="HBO原創HD" tvg-name="HBO原創HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO原創HD.png" group-title="60大酒店",HBO原創HD
+http://107.167.178.41:62364/proxy?do=mqitv&id=live1195&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/HBOSignatureHD.live.ts&port=8543&type=m3u8&play_token=HtVK-YpDuOOVagvEMNTvZzII98HqEY8D
 
-
-#EXTINF:-1 group-title="電影戲劇",CINEMAX
+EXTINF:-1 group-title="電影戲劇",CINEMAX
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=cinemax_twn
 http://107.167.178.41:62364/proxy?do=mqitv&id=live1030&ip=http://211.23.114.106:1888&playing=http://61.219.99.20:8081/hls/71/813/ch42.m3u8&port=9358&type=m3u8&play_token=HtVK-YpDuOOVagvEMNTvZzII98HqEY8D
 http://107.167.178.41:62364/proxy?do=mqitv&id=live1030&ip=http://220.134.196.147:1888&playing=http://61.219.99.20:8081/hls/71/813/ch42.m3u8&port=8535&type=m3u8&play_token=HtVK-YpDuOOVagvEMNTvZzII98HqEY8D
