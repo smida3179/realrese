@@ -1,215 +1,215 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.iill.top/epg"
 
-#EXTINF:-1 tvg-id="台視新聞HD" tvg-name="台視新聞HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台視新聞HD.png" group-title="59大酒店",台視新聞HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1101&ip=https://59.125.210.231:4433&playing=http://192.168.0.153/12.ts&port=8876&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="中視新聞HD" tvg-name="中視新聞HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中視新聞HD.png" group-title="59大酒店",中視新聞HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1100&ip=https://59.125.210.231:4433&playing=http://192.168.0.153/8.ts&port=8875&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="華視新聞HD" tvg-name="華視新聞HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/華視新聞HD.png" group-title="59大酒店",華視新聞HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1099&ip=https://59.125.210.231:4433&playing=http://192.168.0.105/0.ts&port=8874&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="民視HD" tvg-name="民視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民視HD.png" group-title="59大酒店",民視HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1008&ip=https://59.125.210.231:4433&playing=http://192.168.0.153/4.ts&port=8807&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="中視HD" tvg-name="中視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中視HD.png" group-title="59大酒店",中視HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1033&ip=https://59.125.210.231:4433&playing=udp://@224.2.2.1:10001?ca=aac&port=8812&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="台視HD" tvg-name="台視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台視HD.png" group-title="59大酒店",台視HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1035&ip=https://59.125.210.231:4433&playing=udp://224.2.2.17:10017?ca=aac&port=8814&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="大愛一台 HD" tvg-name="大愛一台 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大愛一台 HD.png" group-title="59大酒店",大愛一台 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1005&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/DaAi1.live.ts&port=8804&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="公視HD" tvg-name="公視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/公視HD.png" group-title="59大酒店",公視HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1037&ip=https://59.125.210.231:4433&playing=http://192.168.0.108/12.ts&port=8815&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="華視HD" tvg-name="華視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/華視HD.png" group-title="59大酒店",華視HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1036&ip=https://59.125.210.231:4433&playing=udp://@224.2.2.25:10025?ca=aac&port=8813&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="公視2 HD" tvg-name="公視2 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/公視2 HD.png" group-title="59大酒店",公視2 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1127&ip=https://59.125.210.231:4433&playing=http://192.168.0.105/2.ts&port=8500&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="公視3 HD" tvg-name="公視3 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/公視3 HD.png" group-title="59大酒店",公視3 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1128&ip=https://59.125.210.231:4433&playing=http://192.168.0.105/4.ts&port=8501&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="民視台灣HD" tvg-name="民視台灣HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民視台灣HD.png" group-title="59大酒店",民視台灣HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1134&ip=https://59.125.210.231:4433&playing=http://192.168.0.105/8.ts&port=8507&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="民視第一台HD" tvg-name="民視第一台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民視第一台HD.png" group-title="59大酒店",民視第一台HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1129&ip=https://59.125.210.231:4433&playing=http://192.168.0.105/6.ts&port=8502&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="華視教育文化HD" tvg-name="華視教育文化HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/華視教育文化HD.png" group-title="59大酒店",華視教育文化HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1135&ip=https://59.125.210.231:4433&playing=http://192.168.0.105/10.ts&port=8503&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="客家電視HD" tvg-name="客家電視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/客家電視HD.png" group-title="59大酒店",客家電視HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1137&ip=https://59.125.210.231:4433&playing=http://192.168.0.105/12.ts&port=8505&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="原民電視HD" tvg-name="原民電視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/原民電視HD.png" group-title="59大酒店",原民電視HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1138&ip=https://59.125.210.231:4433&playing=http://192.168.0.105/14.ts&port=8504&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="台視綜合" tvg-name="台視綜合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台視綜合.png" group-title="59大酒店",台視綜合
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1139&ip=https://59.125.210.231:4433&playing=udp://@224.2.2.20:10020&port=8506&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="台視財經" tvg-name="台視財經" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台視財經.png" group-title="59大酒店",台視財經
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1140&ip=https://59.125.210.231:4433&playing=udp://@224.2.2.19:10019&port=8508&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MOMO親子台.png" group-title="59大酒店",MOMO親子台
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1166&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/MOMO.live.ts&port=8514&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="動物星球 HD" tvg-name="動物星球 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/動物星球 HD.png" group-title="59大酒店",動物星球 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1046&ip=https://59.125.210.231:4433&playing=http://192.168.0.122/0.ts&port=8827&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="金鷹卡通HD" tvg-name="金鷹卡通HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鷹卡通HD.png" group-title="59大酒店",金鷹卡通HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1038&ip=https://59.125.210.231:4433&playing=http://192.168.0.188/4.ts&port=8816&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="東森幼幼HD" tvg-name="東森幼幼HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東森幼幼HD.png" group-title="59大酒店",東森幼幼HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1167&ip=https://59.125.210.231:4433&playing=http://192.168.0.125/0.ts&port=8515&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="緯來綜合HD" tvg-name="緯來綜合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/緯來綜合HD.png" group-title="59大酒店",緯來綜合HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1030&ip=https://59.125.210.231:4433&playing=http://192.168.0.126:9915/b534653e33859a8a1cb3dea666f3ecc2.ts&port=8809&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="八大第一HD" tvg-name="八大第一HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大第一HD.png" group-title="59大酒店",八大第一HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1023&ip=https://59.125.210.231:4433&playing=http://192.168.0.122/8.ts&port=8822&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="八大綜合HD" tvg-name="八大綜合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大綜合HD.png" group-title="59大酒店",八大綜合HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1022&ip=https://59.125.210.231:4433&playing=http://192.168.0.122/4.ts&port=8821&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="三立台灣台 HD" tvg-name="三立台灣台 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立台灣台 HD.png" group-title="59大酒店",三立台灣台 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1168&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/SET29.live.ts&port=8516&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="三立都會台 HD" tvg-name="三立都會台 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立都會台 HD.png" group-title="59大酒店",三立都會台 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1169&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/SET30.live.ts&port=8517&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="東風衛視HD" tvg-name="東風衛視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東風衛視HD.png" group-title="59大酒店",東風衛視HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1221&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/CH37.live.ts&port=8525&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="東森綜合HD" tvg-name="東森綜合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東森綜合HD.png" group-title="59大酒店",東森綜合HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1171&ip=https://59.125.210.231:4433&playing=http://192.168.0.125/4.ts&port=8519&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="東森超視HD" tvg-name="東森超視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東森超視HD.png" group-title="59大酒店",東森超視HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1172&ip=https://59.125.210.231:4433&playing=http://192.168.0.180/12.ts&port=8520&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Discovery HD.png" group-title="59大酒店",Discovery HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1049&ip=https://59.125.210.231:4433&playing=http://192.168.0.166/4.ts&port=8829&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="探索科學 HD" tvg-name="探索科學 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/探索科學 HD.png" group-title="59大酒店",探索科學 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1173&ip=https://59.125.210.231:4433&playing=http://192.168.0.106/8.ts&port=8521&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="中天綜合 HD" tvg-name="中天綜合 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天綜合 HD.png" group-title="59大酒店",中天綜合 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1174&ip=https://59.125.210.231:4433&playing=http://192.168.0.176/8.ts&port=8522&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="緯來精采HD" tvg-name="緯來精采HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/緯來精采HD.png" group-title="59大酒店",緯來精采HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1219&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/wljc.live.ts&port=8567&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="居家樂活HD" tvg-name="居家樂活HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/居家樂活HD.png" group-title="59大酒店",居家樂活HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1220&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/HGTV.live.ts&port=8568&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="中天娛樂 HD" tvg-name="中天娛樂 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天娛樂 HD.png" group-title="59大酒店",中天娛樂 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1175&ip=https://59.125.210.231:4433&playing=http://192.168.0.176/12.ts&port=8523&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="東森戲劇HD" tvg-name="東森戲劇HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東森戲劇HD.png" group-title="59大酒店",東森戲劇HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1176&ip=https://59.125.210.231:4433&playing=http://192.168.0.125/8.ts&port=8524&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="八大戲劇HD" tvg-name="八大戲劇HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大戲劇HD.png" group-title="59大酒店",八大戲劇HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1024&ip=https://59.125.210.231:4433&playing=http://192.168.0.122/12.ts&port=8823&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="緯來戲劇 HD" tvg-name="緯來戲劇 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/緯來戲劇 HD.png" group-title="59大酒店",緯來戲劇 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1032&ip=https://59.125.210.231:4433&playing=http://192.168.0.143:9915/5ea6caef2d5cb581483272759eba64e3.ts&port=8811&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="好萊塢電影HD" tvg-name="好萊塢電影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好萊塢電影HD.png" group-title="59大酒店",好萊塢電影HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1039&ip=https://59.125.210.231:4433&playing=http://192.168.0.176/4.ts&port=8817&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="歷史頻道 HD" tvg-name="歷史頻道 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/歷史頻道 HD.png" group-title="59大酒店",歷史頻道 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1178&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/History.live.ts&port=8526&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="三立戲劇HD" tvg-name="三立戲劇HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立戲劇HD.png" group-title="59大酒店",三立戲劇HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1179&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/sanlixiju.live.ts&port=8527&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="龍翔電影HD" tvg-name="龍翔電影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龍翔電影HD.png" group-title="59大酒店",龍翔電影HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1180&ip=https://59.125.210.231:4433&playing=http://192.168.0.188/0.ts&port=8528&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龍華洋片HD.png" group-title="59大酒店",龍華洋片HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1181&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/lhyp.live.ts&port=8529&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="TLC旅遊頻道HD" tvg-name="TLC旅遊頻道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TLC旅遊頻道HD.png" group-title="59大酒店",TLC旅遊頻道HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1071&ip=https://59.125.210.231:4433&playing=http://192.168.0.188/12.ts&port=8848&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="年代新聞" tvg-name="年代新聞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/年代新聞.png" group-title="59大酒店",年代新聞
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1051&ip=https://59.125.210.231:4433&playing=http://192.168.0.150:9915/81859515f0b43bbb3ed095ff4391e56a.ts&port=8831&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="東森新聞HD" tvg-name="東森新聞HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東森新聞HD.png" group-title="59大酒店",東森新聞HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1007&ip=https://59.125.210.231:4433&playing=http://192.168.0.151/0.ts&port=8806&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="中天新聞 HD" tvg-name="中天新聞 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天新聞 HD.png" group-title="59大酒店",中天新聞 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1165&ip=https://59.125.210.231:4433&playing=http://60.248.127.231:20181/1&port=8513&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="民視新聞HD" tvg-name="民視新聞HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民視新聞HD.png" group-title="59大酒店",民視新聞HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1053&ip=https://59.125.210.231:4433&playing=udp://@224.2.2.11:10011?ca=aac&cv=libx264&port=8832&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="三立新聞 HD" tvg-name="三立新聞 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立新聞 HD.png" group-title="59大酒店",三立新聞 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1182&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/SET54.live.ts&port=8530&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="東森財經HD" tvg-name="東森財經HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東森財經HD.png" group-title="59大酒店",東森財經HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1185&ip=https://59.125.210.231:4433&playing=http://192.168.0.166/8.ts&port=8533&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="非凡新聞HD" tvg-name="非凡新聞HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/非凡新聞HD.png" group-title="59大酒店",非凡新聞HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1057&ip=https://59.125.210.231:4433&playing=http://192.168.0.166/12.ts&port=8836&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="壹新聞HD" tvg-name="壹新聞HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/壹新聞HD.png" group-title="59大酒店",壹新聞HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1021&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/yixinwen.live.ts&port=8820&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="三立財經 HD" tvg-name="三立財經 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立財經 HD.png" group-title="59大酒店",三立財經 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1186&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/SET88.live.ts&port=8534&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="amc HD" tvg-name="amc HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/amc HD.png" group-title="59大酒店",amc HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1187&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/amc.live.ts&port=8535&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="東森電影HD" tvg-name="東森電影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東森電影HD.png" group-title="59大酒店",東森電影HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1188&ip=https://59.125.210.231:4433&playing=http://192.168.0.125/12.ts&port=8536&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="緯來電影HD" tvg-name="緯來電影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/緯來電影HD.png" group-title="59大酒店",緯來電影HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1031&ip=https://59.125.210.231:4433&playing=http://192.168.0.163:9915/09f59fcec8315cbb60a3a1eae756378d.ts&port=8810&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="JET綜合台" tvg-name="JET綜合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JET綜合台.png" group-title="59大酒店",JET綜合台
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1189&ip=https://59.125.210.231:4433&playing=http://192.168.0.129:9915/64e6e8733180b453dc65034d8e318969.ts&port=8537&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="華納電影HD" tvg-name="華納電影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/華納電影HD.png" group-title="59大酒店",華納電影HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1190&ip=https://59.125.210.231:4433&playing=http://192.168.0.188/8.ts&port=8538&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="東森洋片HD" tvg-name="東森洋片HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東森洋片HD.png" group-title="59大酒店",東森洋片HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1191&ip=https://59.125.210.231:4433&playing=http://192.168.0.166/0.ts&port=8539&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="AXN洋片 HD" tvg-name="AXN洋片 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN洋片 HD.png" group-title="59大酒店",AXN洋片 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1064&ip=https://59.125.210.231:4433&playing=http://192.168.0.151/8.ts&port=8842&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="cinema world HD" tvg-name="cinema world HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/cinema world HD.png" group-title="59大酒店",cinema world HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1113&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/CinemaWord.live.ts&port=8847&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="緯來體育HD" tvg-name="緯來體育HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/緯來體育HD.png" group-title="59大酒店",緯來體育HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1020&ip=https://59.125.210.231:4433&playing=http://192.168.0.172:9915/1a10b2d4ddef5a5d7e43421bb576186f.ts&port=8819&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/愛爾達體育1台.png" group-title="59大酒店",愛爾達體育1台
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1077&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/aedty1.live.ts&port=8854&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/愛爾達體育2台.png" group-title="59大酒店",愛爾達體育2台
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1088&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/aedty2.live.ts&port=8865&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="緯來日本HD" tvg-name="緯來日本HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/緯來日本HD.png" group-title="59大酒店",緯來日本HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1048&ip=https://59.125.210.231:4433&playing=http://192.168.0.130:9915/ffc11e633c6e1371558d1ffa7297dea3.ts&port=8828&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="Z頻道" tvg-name="Z頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Z頻道.png" group-title="59大酒店",Z頻道
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1065&ip=https://59.125.210.231:4433&playing=http://192.168.0.176/0.ts&port=8843&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="博斯體育1HD" tvg-name="博斯體育1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯體育1HD.png" group-title="59大酒店",博斯體育1HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1080&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/bosiyundong1.live.ts&port=8857&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="博斯體育2HD" tvg-name="博斯體育2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯體育2HD.png" group-title="59大酒店",博斯體育2HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1081&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/bosiyundong2.live.ts&port=8858&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="國興衛視 HD" tvg-name="國興衛視 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/國興衛視 HD.png" group-title="59大酒店",國興衛視 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1093&ip=https://59.125.210.231:4433&playing=http://192.168.0.180/0.ts&port=8869&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO HD.png" group-title="59大酒店",HBO HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1192&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/HBOHD.live.ts?cv=libx264&port=8540&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="HBO家庭HD" tvg-name="HBO家庭HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO家庭HD.png" group-title="59大酒店",HBO家庭HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1193&ip=https://59.125.210.231:4433&playing=http://192.168.0.112/12.ts&port=8541&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="HBO強檔HD" tvg-name="HBO強檔HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO強檔HD.png" group-title="59大酒店",HBO強檔HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1194&ip=https://59.125.210.231:4433&playing=http://192.168.0.112/4.ts&port=8542&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="HBO原創HD" tvg-name="HBO原創HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO原創HD.png" group-title="59大酒店",HBO原創HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1195&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/HBOSignatureHD.live.ts&port=8543&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="探索動力 HD" tvg-name="探索動力 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/探索動力 HD.png" group-title="59大酒店",探索動力 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1052&ip=https://59.125.210.231:4433&playing=http://192.168.0.106/4.ts&port=8830&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="韓國娛樂 HD" tvg-name="韓國娛樂 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/韓國娛樂 HD.png" group-title="59大酒店",韓國娛樂 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1047&ip=https://59.125.210.231:4433&playing=http://192.168.0.106/8.ts&port=8999&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/國會頻道1.png" group-title="59大酒店",國會頻道1
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1142&ip=https://59.125.210.231:4433&playing=udp://@224.2.2.28:10028&port=8510&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/國會頻道2.png" group-title="59大酒店",國會頻道2
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1143&ip=https://59.125.210.231:4433&playing=udp://@224.2.2.29:10029&port=8509&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="中視經典" tvg-name="中視經典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中視經典.png" group-title="59大酒店",中視經典
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1144&ip=https://59.125.210.231:4433&playing=udp://@224.2.2.3:10003&port=8511&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="中視菁采" tvg-name="中視菁采" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中視菁采.png" group-title="59大酒店",中視菁采
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1145&ip=https://59.125.210.231:4433&playing=udp://@224.2.2.4:10004&port=8512&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="信吉電視 HD" tvg-name="信吉電視 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/信吉電視 HD.png" group-title="59大酒店",信吉電視 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1196&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/xinji.live.ts&port=8544&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/人間衛視.png" group-title="59大酒店",人間衛視
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1197&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/BLTV.live.ts&port=8545&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="佛衛慈悲" tvg-name="佛衛慈悲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/佛衛慈悲.png" group-title="59大酒店",佛衛慈悲
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1198&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/BTSHD.live.ts&port=8546&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="信大電視 HD" tvg-name="信大電視 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/信大電視 HD.png" group-title="59大酒店",信大電視 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1199&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/xinda.live.ts&port=8547&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="大愛二台HD" tvg-name="大愛二台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大愛二台HD.png" group-title="59大酒店",大愛二台HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1200&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/DaAi2.live.ts&port=8548&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="好消息二台" tvg-name="好消息二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好消息二台.png" group-title="59大酒店",好消息二台
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1201&ip=https://59.125.210.231:4433&playing=http://192.168.10.3:9090/live/GOOD2.live.ts&port=8549&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="BS朝日" tvg-name="BS朝日" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BS朝日.png" group-title="59大酒店",BS朝日
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1202&ip=https://59.125.210.231:4433&playing=http://192.168.0.201/0.ts&port=8550&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="JSPORT-1" tvg-name="JSPORT-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JSPORT-1.png" group-title="59大酒店",JSPORT-1
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1204&ip=https://59.125.210.231:4433&playing=http://192.168.0.201/12.ts&port=8552&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="JSPORT-2" tvg-name="JSPORT-2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JSPORT-2.png" group-title="59大酒店",JSPORT-2
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1205&ip=https://59.125.210.231:4433&playing=http://192.168.0.201/8.ts&port=8553&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="美亞電影-粵語" tvg-name="美亞電影-粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亞電影-粵語.png" group-title="59大酒店",美亞電影-粵語
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1206&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/mydyyhd.live.ts&port=8554&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="CatchPlay HD" tvg-name="CatchPlay HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CatchPlay HD.png" group-title="59大酒店",CatchPlay HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1207&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/CatchPlay.live.ts&port=8555&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="美亞電影 HD" tvg-name="美亞電影 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亞電影 HD.png" group-title="59大酒店",美亞電影 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1208&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/mydyghd.live.ts&port=8556&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="Look HD" tvg-name="Look HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Look HD.png" group-title="59大酒店",Look HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1209&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/CHK.live.ts&port=8557&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="彩虹電影" tvg-name="彩虹電影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/彩虹電影.png" group-title="59大酒店",彩虹電影
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1210&ip=https://59.125.210.231:4433&playing=http://192.168.0.151/4.ts&port=8558&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="松視一台 HD" tvg-name="松視一台 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/松視一台 HD.png" group-title="59大酒店",松視一台 HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1211&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/ss1.live.ts&port=8559&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="彩虹E台" tvg-name="彩虹E台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/彩虹E台.png" group-title="59大酒店",彩虹E台
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1212&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/CHE.live.ts&port=8560&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="松視二台HD" tvg-name="松視二台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/松視二台HD.png" group-title="59大酒店",松視二台HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1213&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/ss2.live.ts&port=8561&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="驚艷台HD" tvg-name="驚艷台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/驚艷台HD.png" group-title="59大酒店",驚艷台HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1214&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/jyt.live.ts&port=8562&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="潘多拉完美" tvg-name="潘多拉完美" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/潘多拉完美.png" group-title="59大酒店",潘多拉完美
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1216&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/pdlwm.live.ts&port=8564&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/香蕉台.png" group-title="59大酒店",香蕉台
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1218&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/xjt.live.ts&port=8566&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="湖南衛視HD" tvg-name="湖南衛視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南衛視HD.png" group-title="59大酒店",湖南衛視HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1118&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/HNHD.live.ts&port=8883&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="浙江衛視HD" tvg-name="浙江衛視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江衛視HD.png" group-title="59大酒店",浙江衛視HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1203&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/ZHEJIANG.live.ts&port=8551&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="北京衛視HD" tvg-name="北京衛視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京衛視HD.png" group-title="59大酒店",北京衛視HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1083&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/BEIJING.live.ts&port=8860&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="上海衛視HD" tvg-name="上海衛視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海衛視HD.png" group-title="59大酒店",上海衛視HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1085&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/SHANGHAIDANGDANG.live.ts&port=8862&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="江蘇衛視HD" tvg-name="江蘇衛視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江蘇衛視HD.png" group-title="59大酒店",江蘇衛視HD
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1082&ip=https://59.125.210.231:4433&playing=http://192.168.10.2:9090/live/JIANGSU.live.ts&port=8859&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天新闻.png" group-title="59大酒店",中天新闻
-http://34.81.16.27:5000/proxy?do=mqitv&id=live1222&ip=https://59.125.210.231:4433&playing=https://xctv.com.tw/yt.asp?ty=.m3u8&port=8518&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="台視新聞HD" tvg-name="台視新聞HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台視新聞HD.png" group-title="60大酒店",台視新聞HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1101&ip=https://60.248.127.232:4433&playing=http://192.168.0.153/12.ts&port=8876&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="中視新聞HD" tvg-name="中視新聞HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中視新聞HD.png" group-title="60大酒店",中視新聞HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1100&ip=https://60.248.127.232:4433&playing=http://192.168.0.153/8.ts&port=8875&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="華視新聞HD" tvg-name="華視新聞HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/華視新聞HD.png" group-title="60大酒店",華視新聞HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1099&ip=https://60.248.127.232:4433&playing=http://192.168.0.105/0.ts&port=8874&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="民視HD" tvg-name="民視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民視HD.png" group-title="60大酒店",民視HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1008&ip=https://60.248.127.232:4433&playing=http://192.168.0.153/4.ts&port=8807&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="中視HD" tvg-name="中視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中視HD.png" group-title="60大酒店",中視HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1033&ip=https://60.248.127.232:4433&playing=udp://@224.2.2.1:10001?ca=aac&port=8812&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="台視HD" tvg-name="台視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台視HD.png" group-title="60大酒店",台視HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1035&ip=https://60.248.127.232:4433&playing=udp://224.2.2.17:10017?ca=aac&port=8814&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="大愛一台 HD" tvg-name="大愛一台 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大愛一台 HD.png" group-title="60大酒店",大愛一台 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1005&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/DaAi1.live.ts&port=8804&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="公視HD" tvg-name="公視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/公視HD.png" group-title="60大酒店",公視HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1037&ip=https://60.248.127.232:4433&playing=http://192.168.0.108/12.ts&port=8815&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="華視HD" tvg-name="華視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/華視HD.png" group-title="60大酒店",華視HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1036&ip=https://60.248.127.232:4433&playing=udp://@224.2.2.25:10025?ca=aac&port=8813&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="公視2 HD" tvg-name="公視2 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/公視2 HD.png" group-title="60大酒店",公視2 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1127&ip=https://60.248.127.232:4433&playing=http://192.168.0.105/2.ts&port=8500&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="公視3 HD" tvg-name="公視3 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/公視3 HD.png" group-title="60大酒店",公視3 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1128&ip=https://60.248.127.232:4433&playing=http://192.168.0.105/4.ts&port=8501&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="民視台灣HD" tvg-name="民視台灣HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民視台灣HD.png" group-title="60大酒店",民視台灣HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1134&ip=https://60.248.127.232:4433&playing=http://192.168.0.105/8.ts&port=8507&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="民視第一台HD" tvg-name="民視第一台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民視第一台HD.png" group-title="60大酒店",民視第一台HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1129&ip=https://60.248.127.232:4433&playing=http://192.168.0.105/6.ts&port=8502&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="華視教育文化HD" tvg-name="華視教育文化HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/華視教育文化HD.png" group-title="60大酒店",華視教育文化HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1135&ip=https://60.248.127.232:4433&playing=http://192.168.0.105/10.ts&port=8503&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="客家電視HD" tvg-name="客家電視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/客家電視HD.png" group-title="60大酒店",客家電視HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1137&ip=https://60.248.127.232:4433&playing=http://192.168.0.105/12.ts&port=8505&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="原民電視HD" tvg-name="原民電視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/原民電視HD.png" group-title="60大酒店",原民電視HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1138&ip=https://60.248.127.232:4433&playing=http://192.168.0.105/14.ts&port=8504&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="台視綜合" tvg-name="台視綜合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台視綜合.png" group-title="60大酒店",台視綜合
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1139&ip=https://60.248.127.232:4433&playing=udp://@224.2.2.20:10020&port=8506&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="台視財經" tvg-name="台視財經" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台視財經.png" group-title="60大酒店",台視財經
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1140&ip=https://60.248.127.232:4433&playing=udp://@224.2.2.19:10019&port=8508&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MOMO親子台.png" group-title="60大酒店",MOMO親子台
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1166&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/MOMO.live.ts&port=8514&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="動物星球 HD" tvg-name="動物星球 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/動物星球 HD.png" group-title="60大酒店",動物星球 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1046&ip=https://60.248.127.232:4433&playing=http://192.168.0.122/0.ts&port=8827&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="金鷹卡通HD" tvg-name="金鷹卡通HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鷹卡通HD.png" group-title="60大酒店",金鷹卡通HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1038&ip=https://60.248.127.232:4433&playing=http://192.168.0.188/4.ts&port=8816&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="東森幼幼HD" tvg-name="東森幼幼HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東森幼幼HD.png" group-title="60大酒店",東森幼幼HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1167&ip=https://60.248.127.232:4433&playing=http://192.168.0.125/0.ts&port=8515&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="緯來綜合HD" tvg-name="緯來綜合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/緯來綜合HD.png" group-title="60大酒店",緯來綜合HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1030&ip=https://60.248.127.232:4433&playing=http://192.168.0.126:9915/b534653e33859a8a1cb3dea666f3ecc2.ts&port=8809&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="八大第一HD" tvg-name="八大第一HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大第一HD.png" group-title="60大酒店",八大第一HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1023&ip=https://60.248.127.232:4433&playing=http://192.168.0.122/8.ts&port=8822&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="八大綜合HD" tvg-name="八大綜合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大綜合HD.png" group-title="60大酒店",八大綜合HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1022&ip=https://60.248.127.232:4433&playing=http://192.168.0.122/4.ts&port=8821&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="三立台灣台 HD" tvg-name="三立台灣台 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立台灣台 HD.png" group-title="60大酒店",三立台灣台 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1168&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/SET29.live.ts&port=8516&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="三立都會台 HD" tvg-name="三立都會台 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立都會台 HD.png" group-title="60大酒店",三立都會台 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1169&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/SET30.live.ts&port=8517&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="東風衛視HD" tvg-name="東風衛視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東風衛視HD.png" group-title="60大酒店",東風衛視HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1221&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/CH37.live.ts&port=8525&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="東森綜合HD" tvg-name="東森綜合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東森綜合HD.png" group-title="60大酒店",東森綜合HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1171&ip=https://60.248.127.232:4433&playing=http://192.168.0.125/4.ts&port=8519&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="東森超視HD" tvg-name="東森超視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東森超視HD.png" group-title="60大酒店",東森超視HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1172&ip=https://60.248.127.232:4433&playing=http://192.168.0.180/12.ts&port=8520&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Discovery HD.png" group-title="60大酒店",Discovery HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1049&ip=https://60.248.127.232:4433&playing=http://192.168.0.166/4.ts&port=8829&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="探索科學 HD" tvg-name="探索科學 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/探索科學 HD.png" group-title="60大酒店",探索科學 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1173&ip=https://60.248.127.232:4433&playing=http://192.168.0.106/8.ts&port=8521&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="中天綜合 HD" tvg-name="中天綜合 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天綜合 HD.png" group-title="60大酒店",中天綜合 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1174&ip=https://60.248.127.232:4433&playing=http://192.168.0.176/8.ts&port=8522&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="緯來精采HD" tvg-name="緯來精采HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/緯來精采HD.png" group-title="60大酒店",緯來精采HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1219&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/wljc.live.ts&port=8567&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="居家樂活HD" tvg-name="居家樂活HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/居家樂活HD.png" group-title="60大酒店",居家樂活HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1220&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/HGTV.live.ts&port=8568&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="中天娛樂 HD" tvg-name="中天娛樂 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天娛樂 HD.png" group-title="60大酒店",中天娛樂 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1175&ip=https://60.248.127.232:4433&playing=http://192.168.0.176/12.ts&port=8523&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="東森戲劇HD" tvg-name="東森戲劇HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東森戲劇HD.png" group-title="60大酒店",東森戲劇HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1176&ip=https://60.248.127.232:4433&playing=http://192.168.0.125/8.ts&port=8524&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="八大戲劇HD" tvg-name="八大戲劇HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大戲劇HD.png" group-title="60大酒店",八大戲劇HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1024&ip=https://60.248.127.232:4433&playing=http://192.168.0.122/12.ts&port=8823&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="緯來戲劇 HD" tvg-name="緯來戲劇 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/緯來戲劇 HD.png" group-title="60大酒店",緯來戲劇 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1032&ip=https://60.248.127.232:4433&playing=http://192.168.0.143:9915/5ea6caef2d5cb581483272759eba64e3.ts&port=8811&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="好萊塢電影HD" tvg-name="好萊塢電影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好萊塢電影HD.png" group-title="60大酒店",好萊塢電影HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1039&ip=https://60.248.127.232:4433&playing=http://192.168.0.176/4.ts&port=8817&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="歷史頻道 HD" tvg-name="歷史頻道 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/歷史頻道 HD.png" group-title="60大酒店",歷史頻道 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1178&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/History.live.ts&port=8526&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="三立戲劇HD" tvg-name="三立戲劇HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立戲劇HD.png" group-title="60大酒店",三立戲劇HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1179&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/sanlixiju.live.ts&port=8527&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="龍翔電影HD" tvg-name="龍翔電影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龍翔電影HD.png" group-title="60大酒店",龍翔電影HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1180&ip=https://60.248.127.232:4433&playing=http://192.168.0.188/0.ts&port=8528&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龍華洋片HD.png" group-title="60大酒店",龍華洋片HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1181&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/lhyp.live.ts&port=8529&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="TLC旅遊頻道HD" tvg-name="TLC旅遊頻道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TLC旅遊頻道HD.png" group-title="60大酒店",TLC旅遊頻道HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1071&ip=https://60.248.127.232:4433&playing=http://192.168.0.188/12.ts&port=8848&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="年代新聞" tvg-name="年代新聞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/年代新聞.png" group-title="60大酒店",年代新聞
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1051&ip=https://60.248.127.232:4433&playing=http://192.168.0.150:9915/81859515f0b43bbb3ed095ff4391e56a.ts&port=8831&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="東森新聞HD" tvg-name="東森新聞HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東森新聞HD.png" group-title="60大酒店",東森新聞HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1007&ip=https://60.248.127.232:4433&playing=http://192.168.0.151/0.ts&port=8806&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="中天新聞 HD" tvg-name="中天新聞 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天新聞 HD.png" group-title="60大酒店",中天新聞 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1165&ip=https://60.248.127.232:4433&playing=http://60.248.127.231:20181/1&port=8513&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="民視新聞HD" tvg-name="民視新聞HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民視新聞HD.png" group-title="60大酒店",民視新聞HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1053&ip=https://60.248.127.232:4433&playing=udp://@224.2.2.11:10011?ca=aac&cv=libx264&port=8832&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="三立新聞 HD" tvg-name="三立新聞 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立新聞 HD.png" group-title="60大酒店",三立新聞 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1182&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/SET54.live.ts&port=8530&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="東森財經HD" tvg-name="東森財經HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東森財經HD.png" group-title="60大酒店",東森財經HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1185&ip=https://60.248.127.232:4433&playing=http://192.168.0.166/8.ts&port=8533&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="非凡新聞HD" tvg-name="非凡新聞HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/非凡新聞HD.png" group-title="60大酒店",非凡新聞HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1057&ip=https://60.248.127.232:4433&playing=http://192.168.0.166/12.ts&port=8836&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="壹新聞HD" tvg-name="壹新聞HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/壹新聞HD.png" group-title="60大酒店",壹新聞HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1021&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/yixinwen.live.ts&port=8820&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="三立財經 HD" tvg-name="三立財經 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立財經 HD.png" group-title="60大酒店",三立財經 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1186&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/SET88.live.ts&port=8534&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="amc HD" tvg-name="amc HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/amc HD.png" group-title="60大酒店",amc HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1187&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/amc.live.ts&port=8535&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="東森電影HD" tvg-name="東森電影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東森電影HD.png" group-title="60大酒店",東森電影HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1188&ip=https://60.248.127.232:4433&playing=http://192.168.0.125/12.ts&port=8536&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="緯來電影HD" tvg-name="緯來電影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/緯來電影HD.png" group-title="60大酒店",緯來電影HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1031&ip=https://60.248.127.232:4433&playing=http://192.168.0.163:9915/09f59fcec8315cbb60a3a1eae756378d.ts&port=8810&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="JET綜合台" tvg-name="JET綜合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JET綜合台.png" group-title="60大酒店",JET綜合台
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1189&ip=https://60.248.127.232:4433&playing=http://192.168.0.129:9915/64e6e8733180b453dc65034d8e318969.ts&port=8537&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="華納電影HD" tvg-name="華納電影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/華納電影HD.png" group-title="60大酒店",華納電影HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1190&ip=https://60.248.127.232:4433&playing=http://192.168.0.188/8.ts&port=8538&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="東森洋片HD" tvg-name="東森洋片HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/東森洋片HD.png" group-title="60大酒店",東森洋片HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1191&ip=https://60.248.127.232:4433&playing=http://192.168.0.166/0.ts&port=8539&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="AXN洋片 HD" tvg-name="AXN洋片 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN洋片 HD.png" group-title="60大酒店",AXN洋片 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1064&ip=https://60.248.127.232:4433&playing=http://192.168.0.151/8.ts&port=8842&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="cinema world HD" tvg-name="cinema world HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/cinema world HD.png" group-title="60大酒店",cinema world HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1113&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/CinemaWord.live.ts&port=8847&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="緯來體育HD" tvg-name="緯來體育HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/緯來體育HD.png" group-title="60大酒店",緯來體育HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1020&ip=https://60.248.127.232:4433&playing=http://192.168.0.172:9915/1a10b2d4ddef5a5d7e43421bb576186f.ts&port=8819&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/愛爾達體育1台.png" group-title="60大酒店",愛爾達體育1台
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1077&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/aedty1.live.ts&port=8854&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/愛爾達體育2台.png" group-title="60大酒店",愛爾達體育2台
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1088&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/aedty2.live.ts&port=8865&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="緯來日本HD" tvg-name="緯來日本HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/緯來日本HD.png" group-title="60大酒店",緯來日本HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1048&ip=https://60.248.127.232:4433&playing=http://192.168.0.130:9915/ffc11e633c6e1371558d1ffa7297dea3.ts&port=8828&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="Z頻道" tvg-name="Z頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Z頻道.png" group-title="60大酒店",Z頻道
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1065&ip=https://60.248.127.232:4433&playing=http://192.168.0.176/0.ts&port=8843&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="博斯體育1HD" tvg-name="博斯體育1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯體育1HD.png" group-title="60大酒店",博斯體育1HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1080&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/bosiyundong1.live.ts&port=8857&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="博斯體育2HD" tvg-name="博斯體育2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯體育2HD.png" group-title="60大酒店",博斯體育2HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1081&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/bosiyundong2.live.ts&port=8858&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="國興衛視 HD" tvg-name="國興衛視 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/國興衛視 HD.png" group-title="60大酒店",國興衛視 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1093&ip=https://60.248.127.232:4433&playing=http://192.168.0.180/0.ts&port=8869&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO HD.png" group-title="60大酒店",HBO HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1192&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/HBOHD.live.ts?cv=libx264&port=8540&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="HBO家庭HD" tvg-name="HBO家庭HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO家庭HD.png" group-title="60大酒店",HBO家庭HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1193&ip=https://60.248.127.232:4433&playing=http://192.168.0.112/12.ts&port=8541&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="HBO強檔HD" tvg-name="HBO強檔HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO強檔HD.png" group-title="60大酒店",HBO強檔HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1194&ip=https://60.248.127.232:4433&playing=http://192.168.0.112/4.ts&port=8542&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="HBO原創HD" tvg-name="HBO原創HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO原創HD.png" group-title="60大酒店",HBO原創HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1195&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/HBOSignatureHD.live.ts&port=8543&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="探索動力 HD" tvg-name="探索動力 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/探索動力 HD.png" group-title="60大酒店",探索動力 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1052&ip=https://60.248.127.232:4433&playing=http://192.168.0.106/4.ts&port=8830&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="韓國娛樂 HD" tvg-name="韓國娛樂 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/韓國娛樂 HD.png" group-title="60大酒店",韓國娛樂 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1047&ip=https://60.248.127.232:4433&playing=http://192.168.0.106/8.ts&port=8999&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/國會頻道1.png" group-title="60大酒店",國會頻道1
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1142&ip=https://60.248.127.232:4433&playing=udp://@224.2.2.28:10028&port=8510&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/國會頻道2.png" group-title="60大酒店",國會頻道2
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1143&ip=https://60.248.127.232:4433&playing=udp://@224.2.2.29:10029&port=8509&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="中視經典" tvg-name="中視經典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中視經典.png" group-title="60大酒店",中視經典
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1144&ip=https://60.248.127.232:4433&playing=udp://@224.2.2.3:10003&port=8511&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="中視菁采" tvg-name="中視菁采" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中視菁采.png" group-title="60大酒店",中視菁采
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1145&ip=https://60.248.127.232:4433&playing=udp://@224.2.2.4:10004&port=8512&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="信吉電視 HD" tvg-name="信吉電視 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/信吉電視 HD.png" group-title="60大酒店",信吉電視 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1196&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/xinji.live.ts&port=8544&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/人間衛視.png" group-title="60大酒店",人間衛視
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1197&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/BLTV.live.ts&port=8545&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="佛衛慈悲" tvg-name="佛衛慈悲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/佛衛慈悲.png" group-title="60大酒店",佛衛慈悲
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1198&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/BTSHD.live.ts&port=8546&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="信大電視 HD" tvg-name="信大電視 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/信大電視 HD.png" group-title="60大酒店",信大電視 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1199&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/xinda.live.ts&port=8547&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="大愛二台HD" tvg-name="大愛二台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大愛二台HD.png" group-title="60大酒店",大愛二台HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1200&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/DaAi2.live.ts&port=8548&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="好消息二台" tvg-name="好消息二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好消息二台.png" group-title="60大酒店",好消息二台
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1201&ip=https://60.248.127.232:4433&playing=http://192.168.10.3:9090/live/GOOD2.live.ts&port=8549&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="BS朝日" tvg-name="BS朝日" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BS朝日.png" group-title="60大酒店",BS朝日
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1202&ip=https://60.248.127.232:4433&playing=http://192.168.0.201/0.ts&port=8550&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="JSPORT-1" tvg-name="JSPORT-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JSPORT-1.png" group-title="60大酒店",JSPORT-1
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1204&ip=https://60.248.127.232:4433&playing=http://192.168.0.201/12.ts&port=8552&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="JSPORT-2" tvg-name="JSPORT-2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JSPORT-2.png" group-title="60大酒店",JSPORT-2
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1205&ip=https://60.248.127.232:4433&playing=http://192.168.0.201/8.ts&port=8553&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="美亞電影-粵語" tvg-name="美亞電影-粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亞電影-粵語.png" group-title="60大酒店",美亞電影-粵語
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1206&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/mydyyhd.live.ts&port=8554&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="CatchPlay HD" tvg-name="CatchPlay HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CatchPlay HD.png" group-title="60大酒店",CatchPlay HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1207&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/CatchPlay.live.ts&port=8555&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="美亞電影 HD" tvg-name="美亞電影 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亞電影 HD.png" group-title="60大酒店",美亞電影 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1208&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/mydyghd.live.ts&port=8556&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="Look HD" tvg-name="Look HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Look HD.png" group-title="60大酒店",Look HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1209&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/CHK.live.ts&port=8557&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="彩虹電影" tvg-name="彩虹電影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/彩虹電影.png" group-title="60大酒店",彩虹電影
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1210&ip=https://60.248.127.232:4433&playing=http://192.168.0.151/4.ts&port=8558&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="松視一台 HD" tvg-name="松視一台 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/松視一台 HD.png" group-title="60大酒店",松視一台 HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1211&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/ss1.live.ts&port=8559&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="彩虹E台" tvg-name="彩虹E台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/彩虹E台.png" group-title="60大酒店",彩虹E台
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1212&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/CHE.live.ts&port=8560&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="松視二台HD" tvg-name="松視二台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/松視二台HD.png" group-title="60大酒店",松視二台HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1213&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/ss2.live.ts&port=8561&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="驚艷台HD" tvg-name="驚艷台HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/驚艷台HD.png" group-title="60大酒店",驚艷台HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1214&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/jyt.live.ts&port=8562&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="潘多拉完美" tvg-name="潘多拉完美" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/潘多拉完美.png" group-title="60大酒店",潘多拉完美
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1216&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/pdlwm.live.ts&port=8564&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/香蕉台.png" group-title="60大酒店",香蕉台
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1218&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/xjt.live.ts&port=8566&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="湖南衛視HD" tvg-name="湖南衛視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南衛視HD.png" group-title="60大酒店",湖南衛視HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1118&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/HNHD.live.ts&port=8883&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="浙江衛視HD" tvg-name="浙江衛視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江衛視HD.png" group-title="60大酒店",浙江衛視HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1203&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/ZHEJIANG.live.ts&port=8551&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="北京衛視HD" tvg-name="北京衛視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京衛視HD.png" group-title="60大酒店",北京衛視HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1083&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/BEIJING.live.ts&port=8860&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="上海衛視HD" tvg-name="上海衛視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海衛視HD.png" group-title="60大酒店",上海衛視HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1085&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/SHANGHAIDANGDANG.live.ts&port=8862&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="江蘇衛視HD" tvg-name="江蘇衛視HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江蘇衛視HD.png" group-title="60大酒店",江蘇衛視HD
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1082&ip=https://60.248.127.232:4433&playing=http://192.168.10.2:9090/live/JIANGSU.live.ts&port=8859&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天新闻.png" group-title="60大酒店",中天新闻
+http://34.81.16.27:5000/proxy?do=mqitv&id=live1222&ip=https://60.248.127.232:4433&playing=https://xctv.com.tw/yt.asp?ty=.m3u8&port=8518&type=m3u8&play_token=7aecKjosZme5bhxfpR_u6bx6qY3K7Wln
