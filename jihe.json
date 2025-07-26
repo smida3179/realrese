@@ -3,8 +3,8 @@
         {
             "name": "myself┃egg",
             "ua": "AptvPlayer/1.3.3",
-            "epg": "http://34.81.16.27:62364/all",
-            "url": "http://34.81.16.27:5005/tv.m3u?token=fd4f788903"
+            "epg": "http://34.81.16.27:5000/all",
+            "url": "http://34.81.16.27:5005/tv.m3u?token=fd4f788903&url=kia"
         }
     ]
 }
