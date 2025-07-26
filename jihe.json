@@ -1,7 +1,34 @@
-{ "lives": [
- {"name":"Hami","ua":"AptvPlayer/1.3.3","epg":"http://34.81.16.27:5025/epg/Hami?ch={name}&date={date}","url":"http://34.81.16.27:5005/tv.m3u?token=fd4f788903&url=kiaa"}, 
- {"name":"ofiii","ua":"AptvPlayer/1.3.3","epg":"http://34.81.16.27:5025/epg/ofiii?ch={name}&date={date}","url":"http://34.81.16.27:5005/tv.m3u?token=fd4f788903&url=kiaa"},
- {"name":"TBC","ua":"AptvPlayer/1.3.3","epg":"http://34.81.16.27:5025/epg/tbc?ch={name}&date={date}","url":"http://34.81.16.27:5005/tv.m3u?token=fd4f788903&url=kiaa"}, 
- {"name":"4GTV","ua":"AptvPlayer/1.3.3","epg":"http://34.81.16.27:5025/epg/Fourgtv?ch={name}&date={date}","url":"http://34.81.16.27:5005/tv.m3u?token=fd4f788903&url=kiaa"},
- {"name":"TW","ua":"AptvPlayer/1.3.3","epg":"http://34.81.16.27:5025/epg/TW?ch={name}&date={date}","url":"http://34.81.16.27:5005/tv.m3u?token=fd4f788903&url=kiaa"} ]
- }
+{
+  "lives": [
+    {
+      "name": "Hami",
+      "ua": "h2w1h24561",
+      "epg": "http://34.81.16.27:5025/epg/hami?ch={name}&date={date}",
+      "url": "http://34.81.16.27:5005/tv.m3u?token=gh5g966431&url=hami"
+    },
+    {
+      "name": "ofiii",
+      "ua": "h2w1h24561",
+      "epg": "http://34.81.16.27:5025/epg/ofiii?ch={name}&date={date}",
+      "url": "http://34.81.16.27:5005/tv.m3u?token=gh5g966431&url=ofiii"
+    },
+    {
+      "name": "TBC",
+      "ua": "h2w1h24561",
+      "epg": "http://34.81.16.27:5025/epg/tbc?ch={name}&date={date}",
+      "url": "http://34.81.16.27:5005/tv.m3u?token=gh5g966431&url=tbc"
+    },
+    {
+      "name": "4GTV",
+      "ua": "h2w1h24561",
+      "epg": "http://34.81.16.27:5025/epg/Fourgtv?ch={name}&date={date}",
+      "url": "http://34.81.16.27:5005/tv.m3u?token=gh5g966431&url=4gtv"
+    },
+    {
+      "name": "TW",
+      "ua": "h2w1h24561",
+      "epg": "http://34.81.16.27:5025/epg/TW?ch={name}&date={date}",
+      "url": "http://34.81.16.27:5005/tv.m3u?token=gh5g966431&url=mqitv"
+    }
+  ]
+}
