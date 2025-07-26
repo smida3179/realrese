@@ -1,28 +1,34 @@
 {
   "lives": [
     {
-      "name": "歐飛",
+      "name": "Hami",
+      "ua": "okhttp/5.13.0",
+      "epg": "http://34.81.16.27:5025/epg/hami?ch={name}&date={date}",
+      "url": "http://34.81.16.27:5005/tv.m3u?token=HfpR9QlFWfwd1HOXgt6zhHJPcUHb8xeaWV2YyUHoZrX1HsPY4TOb2hgWQXwyvmT2&url=hami"
+    },
+    {
+      "name": "ofiii",
       "ua": "okhttp/5.13.0",
       "epg": "http://34.81.16.27:5025/epg/ofiii?ch={name}&date={date}",
-      "url": "http://34.81.16.27:5005/tv.m3u?token=SdlnWGfJgbk8AxAaHOjkttdsFEWu8eDVw0WW1uEX3Ghn3IhWnM6k5C93XGP5YYXG&url=ofiii"
+      "url": "http://34.81.16.27:5005/tv.m3u?token=HfpR9QlFWfwd1HOXgt6zhHJPcUHb8xeaWV2YyUHoZrX1HsPY4TOb2hgWQXwyvmT2&url=ofiii"
     },
     {
-      "name": "myTVSuper",
+      "name": "TBC",
       "ua": "okhttp/5.13.0",
       "epg": "http://34.81.16.27:5025/epg/tbc?ch={name}&date={date}",
-      "url": "http://34.81.16.27:5005/tv.m3u?token=SdlnWGfJgbk8AxAaHOjkttdsFEWu8eDVw0WW1uEX3Ghn3IhWnM6k5C93XGP5YYXG"
+      "url": "http://34.81.16.27:5005/tv.m3u?token=HfpR9QlFWfwd1HOXgt6zhHJPcUHb8xeaWV2YyUHoZrX1HsPY4TOb2hgWQXwyvmT2&url=tbc"
     },
     {
-      "name": "四季線上",
+      "name": "4GTV",
       "ua": "okhttp/5.13.0",
-      "epg": "http://34.81.16.27:5025/epg/4gtv?ch={name}&date={date}",
-      "url": "http://34.81.16.27:5005/tv.m3u?token=SdlnWGfJgbk8AxAaHOjkttdsFEWu8eDVw0WW1uEX3Ghn3IhWnM6k5C93XGP5YYXG&url=4gtv"
+      "epg": "http://34.81.16.27:5025/epg/Fourgtv?ch={name}&date={date}",
+      "url": "http://34.81.16.27:5678/tv.m3u?token=HfpR9QlFWfwd1HOXgt6zhHJPcUHb8xeaWV2YyUHoZrX1HsPY4TOb2hgWQXwyvmT2&url=4gtv"
     },
     {
-      "name": "MQiTV",
+      "name": "TW",
       "ua": "okhttp/5.13.0",
       "epg": "http://34.81.16.27:5025/epg/TW?ch={name}&date={date}",
-      "url": "http://34.81.16.27:5005/tv.m3u?token=SdlnWGfJgbk8AxAaHOjkttdsFEWu8eDVw0WW1uEX3Ghn3IhWnM6k5C93XGP5YYXG"
+      "url": "http://34.81.16.27:5678/tv.m3u?token=HfpR9QlFWfwd1HOXgt6zhHJPcUHb8xeaWV2YyUHoZrX1HsPY4TOb2hgWQXwyvmT2&url=mqitv"
     }
   ]
 }
