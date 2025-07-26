@@ -1,34 +1,11 @@
-{
-  "lives": [
-    {
-      "name": "Hami",
-      "ua": "h2w1h24561",
-      "epg": "http://34.81.16.27:5025/epg/hami?ch={name}&date={date}",
-      "url": "http://34.81.16.27:5005/tv.m3u?token=gh5g966431&url=hami"
-    },
-    {
-      "name": "ofiii",
-      "ua": "h2w1h24561",
-      "epg": "http://34.81.16.27:5025/epg/ofiii?ch={name}&date={date}",
-      "url": "http://34.81.16.27:5005/tv.m3u?token=gh5g966431&url=ofiii"
-    },
-    {
-      "name": "TBC",
-      "ua": "h2w1h24561",
-      "epg": "http://34.81.16.27:5025/epg/tbc?ch={name}&date={date}",
-      "url": "http://34.81.16.27:5005/tv.m3u?token=gh5g966431&url=tbc"
-    },
-    {
-      "name": "4GTV",
-      "ua": "h2w1h24561",
-      "epg": "http://34.81.16.27:5025/epg/Fourgtv?ch={name}&date={date}",
-      "url": "http://34.81.16.27:5005/tv.m3u?token=gh5g966431&url=4gtv"
-    },
-    {
-      "name": "TW",
-      "ua": "h2w1h24561",
-      "epg": "http://34.81.16.27:5025/epg/TW?ch={name}&date={date}",
-      "url": "http://34.81.16.27:5005/tv.m3u?token=gh5g966431&url=mqitv"
-    }
-  ]
-}
+#EXTM3U
+#EXTINF:-1 tvg-id="Hami" tvg-name="Hami",Hami
+http://34.81.16.27:5005/tv.m3u?token=gh5g966431&url=hami
+#EXTINF:-1 tvg-id="ofiii" tvg-name="ofiii",ofiii
+http://34.81.16.27:5005/tv.m3u?token=gh5g966431&url=ofiii
+#EXTINF:-1 tvg-id="TBC" tvg-name="TBC",TBC
+http://34.81.16.27:5005/tv.m3u?token=gh5g966431&url=tbc
+#EXTINF:-1 tvg-id="4GTV" tvg-name="4GTV",4GTV
+http://34.81.16.27:5005/tv.m3u?token=gh5g966431&url=4gtv
+#EXTINF:-1 tvg-id="TW" tvg-name="TW",TW
+http://34.81.16.27:5005/tv.m3u?token=gh5g966431&url=mqitv
